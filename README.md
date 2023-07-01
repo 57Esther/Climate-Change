@@ -1,18 +1,36 @@
   <h1 align="Center"></h1> Climate Change Website </h1>
   
-  [view the live project here.](https://57esther-climate-change-cembzc9w12.us2.codeanyapp.com/#/workspaces/Climate-Change)
+   [view the live project here.]()
   
-  This is a website build to create awareness to users on climate change and how making some changes can keep our nautre save.
+   ## Table of contents
+  1. [Introduction](#Introduction)
+  2. [UX](#UX)
+     1. [Ideal User Demographic](#Ideal-User-Demographic)
+     2. [User Stories](#User-Stories)
+     3. [Development Plans](#Development-Plans)
+     4. [Design](#Designs)
+  3. [Features](#Features)
+     1. [Design Features](#Design-Features)
+     2. [Existing Features](#Existing-Features)
+     3. [Future Features](#Future-Features)
+  4. [Issues and Bugs](#Issues-and-Bugs)
+  5. [Technologies Uesd] (#Technoloies-Used)
+     1. [Main Languages Used](#Main-Language-Used)
+     2. [Frameworks, Libraries & Programs Used](#Frameworks,-Libraries-&-Programs-Used)
+  6. [Testing](#Testing)
+  7. [Deployment](#Deployment)
+  8. [Credits](#Credits)
+     1. [Contents](#Credits)
+     2. [Media](#Media)
+     3. [Code](#Code)
+  9. [Acknowledgements](#Acknowledgements)
+  ***
 
-  <h2 align="center"><img src="hero image here"></h2>
+## Introduction
 
-     #Tabele of content
+This is a website build to create awareness to users on climate change and how making some changes can keep our nautral habitat and earth safe.
 
-
-
-
-
-
+   <h2 align="center"><img src="hero image here"></h2>
 
      ## User Experience (UX)
 
@@ -57,12 +75,3 @@
 
 
       ## Features
-
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
----
-
-Happy coding!
