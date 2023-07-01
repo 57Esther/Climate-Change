@@ -1,34 +1,63 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+  <h1 align="Center"></h1> Climate Change Website </h1>
+  
+  [view the live project here.](https://57esther-climate-change-cembzc9w12.us2.codeanyapp.com/#/workspaces/Climate-Change)
+  
+  This is a website build to create awareness to users on climate change and how making some changes can keep our nautre save.
 
-Welcome,
+  <h2 align="center"><img src="hero image here"></h2>
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+     #Tabele of content
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **May 11th, 2023**
 
-## Codeanywhere Reminders
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
 
-`python3 -m http.server`
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
 
-`http_server`
+     ## User Experience (UX)
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+      - ### User Stories
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+         -  #### First Time Visitors Goals
 
-To log into the Heroku toolbelt CLI:
+           1. As a First Time Visitor, I want to easily understand the main      purpose of the website.
+           2. As a First Time Visitor, I want to be able to easily navigate throughout the website to find content.
+           3. As a First Time Visitor, I also want to locate their social media links to see their followings on social media to determine how trusted and known they are.
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
+
+         -  #### Returing Visitors Goals
+
+           1. As a returning Visitor, I want to find new information about the  website.
+           2. As a returning Visitor, I want to find the best way to contact the developer.
+           3. As a returning Visitor, I want to find the social links easily.
+
+
+          -      #### Frequent Visitor Goals
+
+                 1. As a Frequent Visitor,
+                 2. As a Frequent Visitor,
+                 3. As a Frequent Visitor,
+
+     - ### Design
+         - ### Colour Scheme
+           -
+          - ### Typograpy
+            -
+          - ### Imagery
+            -
+
+     *    ### Wireframes
+
+          -
+
+          -
+
+          -
+
+
+      ## Features
+
 4. In Codeanywhere, from the terminal, run `heroku_config`
 5. Paste in your API key when asked
 
