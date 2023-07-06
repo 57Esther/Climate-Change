@@ -1,62 +1,84 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital@0;1&family=Oswald:wght@300;300&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital@0;1&family=Oswald:wght@300;300&display=swap");
 
 * {
-    margin: 0;
-    padding: 0;
-    border: 0;
-
+  margin: 0;
+  padding: 0;
+  border: 0;
 }
 
 body {
-    font-family: Lato;
-    color: #777777;
+  font-family: Lato;
+  color: #777777;
 }
 
-h2{
-    font-family: oswald;
-    text-transform: uppercase;
-    letter-spacing: 4px;
-    color: #555555;
+h2 {
+  font-family: oswald;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  color: #555555;
+  text-align: center;
+  padding: 20px 0px;
 }
 
-#logo{
-    float: left;
-    font-size: 280%;
+#logo {
+  float: left;
+  font-size: 280%;
 }
 
-#menu{
-    font-size: 100%;
-    list-style-type: none;
-    letter-spacing: 4px;
-
+#menu {
+  font-size: 100%;
+  list-style-type: none;
+  letter-spacing: 4px;
 }
 
-#logo, #menu{
-    line-height: 75px;
+#logo,
+#menu {
+  line-height: 75px;
 }
 
-#menu li{
-    float: right;
-    margin-right: 30px;
+#menu li {
+  float: right;
+  margin-right: 30px;
 }
 
-#menu a{
-    text-decoration: none;
-    color: inherit;
+#menu a {
+  text-decoration: none;
+  color: inherit;
 }
 
-#menu a:hover{
+#menu a:hover {
   border-bottom: 1px solid #777777;
 }
 
-.active{
-    border-bottom: 1px solid #777777;
+.active {
+  border-bottom: 1px solid #777777;
 }
 
-#hero-image{
-    height: 600px;
-    width: 100%;
-    background: url("https: //www.iberdrola.com/documents/20125/40744/Adaptacion_746x419.jpg/b46da6f6-69ed-455e-50ba-157a5ce2b6be?t=1627622227952");
+#hero-image {
+  height: 600px;
+  width: 100%;
+  background: url("../images/hero-image.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  animation-name: hero-zoom;
+  animation-duration: 5s;
+  animation-fill-mode: forwards;
 }
 
+#hero-outer {
+  height: 600px;
+  width: 100%;
+  overflow: hidden;
+}
 
+@keyframes hero-zoom {
+  from {
+    transform: scale(1);
+  }
+
+  to {
+    transform: scale(1, 1);
+  }
+}
