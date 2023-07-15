@@ -12,40 +12,79 @@ body {
 }
 
 .header-style {
+<<<<<<< HEAD
     height: 100px;
     width: fit-content;
 
+=======
+    height: 200px;
+    width: 100%;
+    background-color:rgba(199, 187, 235, 0.667);
+    
+>>>>>>> 09b169b ( all change to html)
 }
 
 
 #logo {
+<<<<<<< HEAD
     height: 100px;
     float: left;
     font-size: 280%;
+=======
+    height: 250px;
+    width: 100%;
+    font-size: 300%;
+    color: #6d086d;
+>>>>>>> 09b169b ( all change to html)
 }
 
 
 #logo h2 {
+<<<<<<< HEAD
     font-family: Lato, oswald;
     text-transform: uppercase;
     letter-spacing: 4px;
     color: #555555;
     text-align: center;
+=======
+   text-transform: uppercase;
+    height: 150px;
+    width: 600%;
+    letter-spacing: 1px;
+    text-align: right;
+    background-color: #6d086d;
+>>>>>>> 09b169b ( all change to html)
 
 }
 
 
 
 .nav-bar {
+<<<<<<< HEAD
     font-size: 110%;
     float: right;
     color: #777777;
+=======
+    font-size: 100%;
+    float: right;
+    color: #6d086d;
+    height: 100px;
+    
+>>>>>>> 09b169b ( all change to html)
 }
 
 #menu {
     font-size: 100%;
+<<<<<<< HEAD
     list-style-type: none;
     letter-spacing: 1px;
+=======
+    height: 150px;
+    width: 100%;
+    letter-spacing: 2px;
+    
+    
+>>>>>>> 09b169b ( all change to html)
 }
 
 #logo,
@@ -67,6 +106,7 @@ body {
 }
 
 #menu a:hover {
+<<<<<<< HEAD
     border-bottom: 1px solid #777777;
 }
 
@@ -81,7 +121,15 @@ body {
     background-position: left;
     background-size: 100px;
     background-repeat: no-repeat;
+=======
+    border-bottom: 1px solid #aaa7a7;
 }
+
+.active {
+    border-bottom: 1px solid #aaa7a7;
+>>>>>>> 09b169b ( all change to html)
+}
+
 
 #hero-image {
     height: 600px;
@@ -90,6 +138,13 @@ body {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
+<<<<<<< HEAD
+=======
+
+    animation: forwards;
+    animation-duration: 5;
+    ani
+>>>>>>> 09b169b ( all change to html)
 }
 
 
@@ -105,7 +160,11 @@ body {
     }
 
     to {
+<<<<<<< HEAD
         transform: scale(1, 1);
+=======
+        transform: scale(1.1);
+>>>>>>> 09b169b ( all change to html)
     }
 }
 
