@@ -10,18 +10,16 @@ body {
     font-family: Lato;
     color: #777777;
 }
-
-.header-style {
-    height: 100px;
-    width: fit-content;
-
-}
-
+   
 
 #logo {
-    height: 100px;
+    height: 200px;
+    width: 100%;
     float: left;
-    font-size: 280%;
+    font-size: 320%;
+    margin-left: 40%;
+    color: #266b11;
+    
 }
 
 
@@ -29,17 +27,17 @@ body {
     font-family: Lato, oswald;
     text-transform: uppercase;
     letter-spacing: 4px;
-    color: #555555;
-    text-align: center;
+    text-align: right;
+    
 
 }
 
 
 
 .nav-bar {
-    font-size: 110%;
+    font-size: 130%;
     float: right;
-    color: #777777;
+    color: #266b11;
 }
 
 #menu {
@@ -55,7 +53,7 @@ body {
     float: right;
 }
 
-#menu li {
+ #menu li {
     float: right;
     margin-right: 30px;
     height: fit-content;
@@ -73,24 +71,15 @@ body {
 .active {
     border-bottom: 1px solid #777777;
 }
-
-#logo-image {
-    height: 100px;
-    width: 100px;
-    background: url("assets/images/cli-mate-logo-image.png");
-    background-position: left;
-    background-size: 100px;
-    background-repeat: no-repeat;
-}
-
-#hero-image {
+ 
+ #hero-image {
     height: 600px;
     width: 100%;
     background: url("../images/hero-image.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-}
+ }
 
 
 #hero-outer {
@@ -99,18 +88,23 @@ body {
     overflow: hidden;
 }
 
-@keyframes hero-zoom {
-    from {
-        transform: scale(1);
-    }
+#about-us {
+  height: fit-content;
+  width: fit-content;
 
-    to {
-        transform: scale(1, 1);
-    }
+}
+
+#about-us > h2{
+    font-size: 200px;
 }
 
 
-#comabct-effect {
+#about-us > p{
+  text-align: justify;
+}
+
+
+ #comabct-effect {
     height: fit-content;
     width: fit-content;
 }
@@ -121,7 +115,7 @@ body {
 
 }
 
-#comabct-effect>h3 {
+ #combact-effect  >h3 {
     height: fit-content;
     width: fit-content;
     margin: auto;
@@ -130,7 +124,7 @@ body {
 }
 
 
-#comabct-effect>p {
+ #combact-effect  >p {
 
     height: fit-content;
     width: fit-content;
@@ -143,19 +137,16 @@ body {
 
 
 
-
-
-
-footer {
-    float: left;
+ footer {
+    float: right;
     height: 100px;
     width: 100%;
-    color: #555555;
+    color: #a3cacc;
 }
 
 
 #footer div {
-    float: left;
+    float: right;
     padding-top: 30px;
     text-align: center;
     font-size: 15px;
@@ -168,8 +159,8 @@ footer {
 }
 
 .social-networks li {
-    font-size: 20px;
-    color: #555555;
+    font-size: 40px;
+    color:#4f4474;
     height: 100px;
     width: 50%;
 }
@@ -190,40 +181,36 @@ footer {
 
 #photos {
     clear: both;
+    line-height: 0;
     column-count: 4;
     column-gap: 0px;
-    margin-bottom: 10px;
+
 }
 
-#photos>img {
-    height: 200px;
+ #photos  img {
     width: 100%;
 
 }
 
 #gallery-tittle {
-    font-size: 100%;
-    letter-spacing: normal;
-    text-align: left;
-    margin-top: 70px;
-    margin-bottom: 7%;
-
+    font-size: 200%;
+    
 }
 
 
-#gallery-tittle>h2 {
+#gallery-tittle  >h2 {
     font-family: Lato, oswald;
     text-transform: uppercase;
     letter-spacing: 1px;
-    color: #c25858;
-    text-align: left;
+    color: #777777;
+    text-align: center;
     height: 100px;
     width: 50%;
 }
 
-#gallery-tittle>p {
+#gallery-tittle  >p {
     height: 100px;
-    width: 50%;
+    width: 100%;
 }
 
 
