@@ -109,13 +109,13 @@ body {
     width: fit-content;
 }
 
-#comabct-effect>h2 {
+#comabct-effect >h2 {
     height: fit-content;
     width: fit-content;
 
 }
 
- #combact-effect  >h3 {
+ #combact-effect >h5 {
     height: fit-content;
     width: fit-content;
     margin: auto;
@@ -124,7 +124,7 @@ body {
 }
 
 
- #combact-effect  >p {
+ #combact-effect >p {
 
     height: fit-content;
     width: fit-content;
@@ -139,7 +139,7 @@ body {
 
  footer {
     float: right;
-    height: 100px;
+    height: 50px;
     width: 100%;
     color: #a3cacc;
 }
@@ -149,7 +149,7 @@ body {
     float: right;
     padding-top: 30px;
     text-align: center;
-    font-size: 15px;
+    font-size: 10px;
 
 
 }
@@ -177,6 +177,25 @@ body {
 
 /*GALLERY.HTML*/
 
+#gallery-tittle {
+    color: #266b11;
+}
+
+
+#gallery-tittle >h2 {
+    font-family: Lato, oswald;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #266b11;
+    text-align: left;
+    height: 100px;
+    width: 50%;
+}
+
+#gallery-tittle  >p {
+    text-align: justify;
+    
+}
 
 
 #photos {
@@ -187,37 +206,12 @@ body {
 
 }
 
- #photos  img {
+ #photos img {
     width: 100%;
 
 }
-
-#gallery-tittle {
-    font-size: 200%;
-    
-}
-
-
-#gallery-tittle  >h2 {
-    font-family: Lato, oswald;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    color: #777777;
-    text-align: center;
-    height: 100px;
-    width: 50%;
-}
-
-#gallery-tittle  >p {
-    height: 100px;
-    width: 100%;
-}
-
-
 
 /* END OF GALLERY.HTML*/
-
-
 
 /* SIGN UP.HTML*/
 
@@ -259,7 +253,7 @@ body {
     margin-top: 100px;
     color: aliceblue;
     background-color: bisque;
-    max-width: 300px;
+    max-width: 500px;
     position: absolute;
     left: 10%;
     padding: 30px;
@@ -307,11 +301,4 @@ body {
 }
 
 
-
-
-
-
-
-
-
-/* END OF SIGNUP.HTML*/
+ /* END OF SIGNUP.HTML*/
