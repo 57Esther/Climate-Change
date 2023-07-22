@@ -8,50 +8,47 @@
 
 body {
     font-family: Lato;
-    color: #777777;
+    color: #717171;
 }
    
 
-#logo {
-    height: 200px;
-    width: 100%;
-    float: left;
-    font-size: 320%;
-    margin-left: 40%;
-    color: #266b11;
-    
-}
-
-
-#logo h2 {
+.logo {
     font-family: Lato, oswald;
+    height: 100px;
+    width: 100%;
+    font-size: 200%;
+    color: #266b11;
+    text-align: center;
     text-transform: uppercase;
-    letter-spacing: 4px;
-    text-align: right;
+    background-color: #a2c8ca;
     
+} 
+
+ .logo, h2 {
+    font-size: 150%;
 
 }
-
-
 
 .nav-bar {
-    font-size: 130%;
+    font-size: 120%;
+    width: fit-content;
     float: right;
     color: #266b11;
+    background-color:#a2c8ca ;
 }
+
 
 #menu {
     font-size: 100%;
     list-style-type: none;
     letter-spacing: 1px;
-}
-
-#logo,
-#menu {
     height: 100px;
     width: 100%;
     float: right;
+
 }
+
+
 
  #menu li {
     float: right;
