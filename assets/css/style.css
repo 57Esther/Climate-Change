@@ -7,7 +7,7 @@
 }
 
 body {
-    font-family: Lato;
+    font-family: Lato, oswald;
     color: #717171;
 }
    
@@ -16,20 +16,20 @@ body {
     font-family: Lato, oswald;
     height: 100px;
     width: 100%;
-    font-size: 250%;
+    font-size: 150%;
     color: #41a323;
     text-align: center;
     text-transform: uppercase;
-    background-color: #a2c8ca;
+    background-color: #d6ffff ;
     
 } 
 
  .logo, h2 {
-    font-size: 250%
+    font-size: 150%
 
 }
 
-.nav-bar {
+.navbar {
     font-size: 120%;
     width: fit-content;
     float: right;
@@ -62,11 +62,11 @@ body {
 }
 
 #menu a:hover {
-    border-bottom: 1px solid #777777;
+    border-bottom: 1px solid #717171;
 }
 
 .active {
-    border-bottom: 1px solid #777777;
+    border-bottom: 1px solid #717171;
 }
  
  #hero-image {
@@ -91,9 +91,28 @@ body {
 
 }
 
-#about-us > h2{
-    font-size: 200px;
+#about-us >h2 {
+    font-size: 100px;
+    color: #d6ffff;
 }
+
+#causes-effect {
+    height: fit-content;
+    width: fit-content;
+  
+
+}
+
+#causes-effect >h2{
+   font-size: 100px;
+   color: #d6ffff;
+
+
+}
+
+
+
+
 
 
 #about-us > p{
@@ -121,24 +140,27 @@ body {
 }
 
 
- #combact-effect >p {
+#combact-effect >p {
 
     height: fit-content;
     width: fit-content;
     margin: auto;
+    text-decoration: solid;
+ }
 
-
+#combact-effect{
+text-align: justify;
+text-decoration: solid;
 
 }
 
 
 
-
- footer {
+footer {
     float: right;
-    height: 50px;
-    width: 100%;
-    color: #a3cacc;
+    height: 30px;
+    width: 50%;
+    color: #d6ffff;
 }
 
 
@@ -157,7 +179,7 @@ body {
 
 .social-networks li {
     font-size: 40px;
-    color:#4f4474;
+    color: #d6ffff;
     height: 100px;
     width: 50%;
 }
@@ -175,7 +197,9 @@ body {
 /*GALLERY.HTML*/
 
 #gallery-tittle {
-    color: #266b11;
+    font-size: 100%;
+    text-align: justify;
+    color: #d6ffff;
 }
 
 
@@ -183,10 +207,10 @@ body {
     font-family: Lato, oswald;
     text-transform: uppercase;
     letter-spacing: 1px;
-    color: #266b11;
-    text-align: left;
+    color: #d6ffff;
+    text-align: justify;
     height: 100px;
-    width: 50%;
+    width: 100%;
 }
 
 #gallery-tittle  >p {
@@ -198,13 +222,14 @@ body {
 #photos {
     clear: both;
     line-height: 0;
-    column-count: 4;
+    column-count: 2;
     column-gap: 0px;
 
 }
 
  #photos img {
-    width: 100%;
+    height: auto;
+    width: 50%;
 
 }
 
@@ -215,23 +240,22 @@ body {
 #signup {
     font-size: 200%;
     letter-spacing: normal;
-    color: #555555;
+    color: #d6ffff;
 
 }
 
-#signup-reason>h2 {
+#signup-reason >h2 {
 
     text-transform: uppercase;
-    color: #c25858;
+    color: #d6ffff;
     height: 100px;
     width: 50%;
-    margin-top: 10px;
-    float: left;
+    float: right;
 }
 
 
 #signup-reason>p {
-    text-align: left;
+    text-align: right;
 }
 
 
@@ -250,15 +274,16 @@ body {
     margin-top: 100px;
     color: aliceblue;
     background-color: bisque;
-    max-width: 500px;
+    height: 350px;
+    width: 350px;
     position: absolute;
-    left: 10%;
+    right: 30%;
     padding: 30px;
 
 }
 
 .signup-form>h2 {
-    color: #5a4d4d;
+    color: #d6ffff;
     margin-bottom: 20px;
 
 }
@@ -278,7 +303,7 @@ body {
 
 
 .text-input:hover {
-    border-color: #c555c5;
+    border-color:#d6ffff;
 }
 
 .join-button {
@@ -288,13 +313,13 @@ body {
     text-align: center;
     font-size: 100%;
     background-color: #d6cbcb;
-    color: #b3a1b3;
+    color: #d6ffff;
     display: block;
 }
 
 .join-button:hover {
     background-color: #c555c5;
-    color: #b3a1b3;
+    color: #d6ffff;
 }
 
 
