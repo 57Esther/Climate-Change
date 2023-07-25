@@ -93,7 +93,7 @@ body {
 
 #about-us >h2 {
     font-size: 100px;
-    color: #d6ffff;
+    color: #5b9292;
 }
 
 #causes-effect {
@@ -105,7 +105,7 @@ body {
 
 #causes-effect >h2{
    font-size: 100px;
-   color: #d6ffff;
+   color: #5b9292;
 
 
 }
@@ -156,39 +156,78 @@ text-decoration: solid;
 
 
 
-footer {
-    float: right;
-    height: 30px;
-    width: 50%;
-    color: #d6ffff;
+.footer {
+    margin-top: 150px;
+    width: 100%;
+    padding: 100px 15%;
+    color: #aac9c9;
+    background-color: #333;
+    display: flex;
 }
 
 
-#footer div {
-    float: right;
-    padding-top: 30px;
+.footer div {
     text-align: center;
-    font-size: 10px;
+
+
+
+} 
+
+
+.col-2 {
+    flex-grow: 2;
+
+}
+.footer div h3{
+    font-weight: 300px;
+    margin-bottom: 30px;
+    letter-spacing: 1px;
+}
+
+form input{
+    width: 400px;
+    height: 45px;
+    border-radius: 4px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    outline: none;
+    border-top: none;
+}
+form button{
+    background-color: transparent;
+    border:  2px solid #efefef;
+    color-scheme: #fff;
+    border-radius: 30px;
+    padding: 10px 30px;
+    font-size: 15px;
+    cursor: pointer;
 
 
 }
+
+
+.col-3{
+    font-size: 22px;
+}
+
 
 .social-networks {
-    text-align: center;
+    margin-top: 30px;
 }
 
 .social-networks li {
-    font-size: 40px;
-    color: #d6ffff;
-    height: 100px;
-    width: 50%;
+    font-size: 22px;
+
 }
 
 .social-networks i {
-    font-size: 100%;
-    margin: 1%;
-    padding: 5%;
-}
+    font-size: 22px;
+    margin: 10%;
+    cursor: pointer;
+
+
+} */
 
 /* END OF INDEX.HTML*/
 
@@ -207,7 +246,7 @@ footer {
     font-family: Lato, oswald;
     text-transform: uppercase;
     letter-spacing: 1px;
-    color: #d6ffff;
+    color: #717171;
     text-align: justify;
     height: 100px;
     width: 100%;
@@ -229,7 +268,7 @@ footer {
 
  #photos img {
     height: auto;
-    width: 50%;
+    width: 100%;
 
 }
 
@@ -240,7 +279,7 @@ footer {
 #signup {
     font-size: 200%;
     letter-spacing: normal;
-    color: #d6ffff;
+    color: #5b9292;
 
 }
 
@@ -272,7 +311,7 @@ footer {
 
 .signup-form {
     margin-top: 100px;
-    color: aliceblue;
+    color: #5b9292;
     background-color: bisque;
     height: 350px;
     width: 350px;
@@ -290,7 +329,7 @@ footer {
 
 .text-input {
     background: transparent;
-    color: #c25858;
+    color: #5b9292;
     width: 100%;
     height: 25px;
     margin: 5px 0 20px 0;
@@ -313,13 +352,13 @@ footer {
     text-align: center;
     font-size: 100%;
     background-color: #d6cbcb;
-    color: #d6ffff;
+    color: #5b9292;
     display: block;
 }
 
 .join-button:hover {
     background-color: #c555c5;
-    color: #d6ffff;
+    color: #5b9292;
 }
 
 
