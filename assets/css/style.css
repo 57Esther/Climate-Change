@@ -171,16 +171,13 @@ iframe{
 }
 
 .social-links > a {
-color: white;
-font-size: 35px;
-padding-right: 10px;
-}
-
-
-.col-2 {
-    flex-grow: 2;
+   color: white;
+   font-size: 35px;
+   padding-right: 10px;
 
 }
+
+
 .footer div h3{
     font-weight: 300px;
     margin-bottom: 30px;
@@ -204,33 +201,9 @@ form button{
     border-radius: 30px;
     padding: 10px 30px;
     font-size: 15px;
-    cursor: pointer;
-
-
-}
-
-
-.col-3{
-    font-size: 22px;
-}
-
-
-.social-networks {
-    margin-top: 30px;
-}
-
-.social-networks li {
-    font-size: 22px;
+    cursor: pointer
 
 }
-
-.social-networks i {
-    font-size: 22px;
-    margin: 10%;
-    cursor: pointer;
-
-
-} */
 
 /* END OF INDEX.HTML*/
 
