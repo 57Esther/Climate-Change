@@ -7,27 +7,27 @@
 }
 
 body {
-    font-family: Lato, oswald;
+    font-family: Lato;
     color: #717171;
+}
+
+h2 {
+    font: oswald;
+
 }
    
 
 .logo {
     font-family: Lato, oswald;
-    height: 100px;
-    width: 100%;
-    font-size: 150%;
+    width:100%;
+    font-size: 200%;
     color: #41a323;
     text-align: center;
     text-transform: uppercase;
     background-color: #d6ffff ;
-    
-} 
+    padding: 15px 0px;
+    } 
 
- .logo, h2 {
-    font-size: 150%
-
-}
 
 .navbar {
     font-size: 120%;
@@ -42,7 +42,6 @@ body {
     font-size: 100%;
     list-style-type: none;
     letter-spacing: 1px;
-    height: 100px;
     width: 100%;
     float: right;
 
@@ -157,21 +156,25 @@ text-decoration: solid;
 
 
 .footer {
-    margin-top: 150px;
-    width: 100%;
-    padding: 100px 15%;
     color: #aac9c9;
     background-color: #333;
-    display: flex;
 }
 
 
 .footer div {
     text-align: center;
 
-
-
 } 
+
+iframe{
+    width: 100%;
+}
+
+.social-links > a {
+color: white;
+font-size: 35px;
+padding-right: 10px;
+}
 
 
 .col-2 {
