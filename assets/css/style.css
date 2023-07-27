@@ -339,3 +339,68 @@ form button{
 
 
  /* END OF SIGNUP.HTML*/
+
+
+
+ /*media screen and (min-width: 400px)*/
+
+
+
+ @media screen and (min-width: 400px) {
+    body {
+      background-color: #d6cbcb;
+    }
+  }
+  
+
+
+  @media screen and (min-width: 800px) {
+    body {
+      background-color: #efefef;
+    }
+  }
+
+ /* media screen (max-width: 600px) */
+
+ @media screen and (max-width: 600px) {
+
+    .div {
+        display: none;
+      }
+
+    .navbar a {
+      float: none;
+      width: 100%;
+    }
+  }
+
+
+
+  @media screen and (max-width: 1393px) {
+    
+    #about-us{
+        width: 65%;
+        height: 1200px;
+        margin: 0 auto;
+
+    }
+    
+
+
+    #cause-effect{
+        width: 65%;
+        height: 1200px;
+        margin: 0 auto;
+
+    }
+    
+
+    .div {
+        display: none;
+      }
+
+    .navbar a {
+      float: none;
+      width: 100%;
+    }
+  }
