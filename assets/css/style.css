@@ -36,7 +36,8 @@ h2 {
     font-size: 100%;
     width: fit-content;
     float: right;
-    color: #4c833b;
+    color: #33831b;
+    background-color: #ffffff;
     text-decoration: none;
 
 }
@@ -111,10 +112,14 @@ h2 {
 }
 
 
-#combact-effect{
+#combact-effect  >p{
 text-align: justify;
 text-decoration: solid;
 
+}
+.col > div > p > a{
+    background-color: #ffffff;
+    color: #0d6efd ;
 }
 
 
@@ -256,14 +261,15 @@ form button{
 
 
 .signup-form {
-    color: #fff;
-    background-color: #3ac20d;
+    color: #ffffff;
+    background-color: #268506;
     padding: 30px;
 
 }
 
 .signup-form >h2 {
-    color: #fff;
+    color: #ffffff;
+    background-color: #31a50a;
     margin-bottom: 20px;
 
 }
@@ -292,8 +298,8 @@ form button{
     padding: 15px 32px 15px 32px;
     text-align: center;
     font-size: 100%;
-    background-color: #4c833b;
-    color: #fff;
+    background-color: #268506 ;
+    color: #ffffff;
     display: block;
 }
 
