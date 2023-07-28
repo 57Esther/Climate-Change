@@ -12,37 +12,40 @@ body {
 }
 
 h2 {
-    font: lato;
-
+    font-family: lato;
+    text-decoration: none;
+    
 }
    
 
 .logo {
     font-family: Lato;
-    width:100%;
+    text-transform: uppercase;
     font-size: 200%;
     color: #41a323;
     text-align: center;
-    text-transform: uppercase;
-    background-color: #d6ffff ;
+    background-color: #d6ffff; 
     padding: 15px 0px;
-    } 
+    width: 100%;
+    
+    
+} 
 
 
 .navbar {
-    font-size: 120%;
+    font-size: 100%;
     width: fit-content;
     float: right;
     color: #4c833b;
+    text-decoration: none;
 
 }
 
 
 #menu {
-    font-size: 100%;
+
     list-style-type: none;
     letter-spacing: 1px;
-    width: 100%;
     float: right;
 
 }
@@ -57,7 +60,7 @@ h2 {
 
 #menu a {
     text-decoration: none;
-    color: inherit;
+    color: #41a323;
 }
 
 #menu a:hover {
@@ -122,7 +125,7 @@ text-decoration: solid;
 
 
 .footer {
-    color: #aac9c9;
+    color: #d6ffff;
     background-color: #333;
 }
 
@@ -164,8 +167,8 @@ form input{
 
 
 form button{
-    background-color: transparent;
-    border:  2px solid #efefef;
+    background-color: #efefef;
+    border:  2px solid #fff;
     color-scheme: #fff;
     border-radius: 30px;
     padding: 10px 30px;
@@ -191,13 +194,13 @@ form button{
     font-family: Lato;
     text-transform: uppercase;
     letter-spacing: 1px;
-    text-align: justify;
+    text-align: center;
     height: 50px;
     width: 100%;
 }
 
 #gallery-tittle  >p {
-    text-align: justify;
+    text-align: center;
     
 }
 
@@ -222,22 +225,22 @@ form button{
 
 #signup {
     font-size: 200%;
-    letter-spacing: normal;
-    color: #5b9292;
+    letter-spacing: 1px;
+    color: #717171;
 
 }
 
-#signup-reason >h2 {
+#signup-reason >h1 {
 
     text-transform: uppercase;
-    color: #d6ffff;
+    color: #4c833b;
     height: 100px;
     width: 50%;
     float: right;
 }
 
 
-#signup-reason>p {
+#signup-reason >p {
     text-align: right;
 }
 
@@ -245,7 +248,7 @@ form button{
 
 .form-section {
     clear: left;
-    background: url("");
+    background: url("http://formdump.codeinstitute.net/");
     background-size: contain;
     background-position: center;
 
@@ -253,25 +256,25 @@ form button{
 
 
 .signup-form {
-    color: #5b9292;
-    background-color: bisque;
+    color: #fff;
+    background-color: #3ac20d;
     padding: 30px;
 
 }
 
-.signup-form>h2 {
-    color: #d6ffff;
+.signup-form >h2 {
+    color: #fff;
     margin-bottom: 20px;
 
 }
 
 .text-input {
     background: transparent;
-    color: #5b9292;
+    color: #fff;
     width: 100%;
     height: 25px;
     margin: 5px 0 20px 0;
-    border: 1px solid #c25858;
+    border: 1px solid #333;
     border-radius: 2px;
     text-align: center;
 }
@@ -280,7 +283,7 @@ form button{
 
 
 .text-input:hover {
-    border-color:#d6ffff;
+    border-color:#fff;
 }
 
 .join-button {
@@ -289,14 +292,14 @@ form button{
     padding: 15px 32px 15px 32px;
     text-align: center;
     font-size: 100%;
-    background-color: #d6cbcb;
-    color: #5b9292;
+    background-color: #4c833b;
+    color: #fff;
     display: block;
 }
 
 .join-button:hover {
-    background-color: #c555c5;
-    color: #5b9292;
+    background-color: #3a3737;
+    color: #efefef;
 }
 
 
@@ -337,8 +340,8 @@ form button{
 
 
     form input{
-        width: 30%;
- margin-right: 15px;
+        width: 100%;
+        margin-right: 15px;
     }
 
   }
