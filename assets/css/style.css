@@ -8,7 +8,8 @@
 
 body {
     font-family: Lato;
-    color: #717171;
+    color: #33831b;
+    background-color: #ffffff;
 }
 
 h2 {
@@ -180,8 +181,8 @@ form input{
 
 form button{
     background-color: #efefef;
-    border:  2px solid #fff;
-    color-scheme: #fff;
+    border:  2px solid #ffffff;
+    color-scheme: #ffffff;
     border-radius: 30px;
     padding: 10px 30px;
     font-size: 15px;
@@ -199,7 +200,7 @@ form button{
 #gallery-tittle {
     font-size: 100%;
     text-align: justify;
-    color: #717171;
+    color: #33831b;
 }
 
 
