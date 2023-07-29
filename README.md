@@ -169,8 +169,9 @@ The wireframes can be found in the link below:
 
 - ## Features
 
-  - ### Existing Features 
-    1. Navigation Bar (Navbar)
+  - ### Existing Features
+
+   -Navigation Bar (Navbar)
 
     -The Navbar consists of a Logo on the left side that links to the top of the site, and three navigation links (nav-bar) on the right side that link to the sections. It occupies 100% width of the site.  
     - The Navbar is fully responsive on all device sizes. On desktop view, the user can see all the nav-links. 
