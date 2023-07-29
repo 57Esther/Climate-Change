@@ -214,7 +214,7 @@ The wireframes can be found in the link below:
     13. [Code anywhere](https://codeanywhere.com/)
     14. [Google Chrome DevTools](https://developer.chrome.com/docs/ 
        devtools/) 
-           
+   15. [Html corrector](https://www.htmlcorrector.com/)  
    <br /> 
 
 - ## Testing
@@ -241,8 +241,11 @@ The wireframes can be found in the link below:
              Users enjoyed the sites visuals however later found out that the visuals were taking too much space and were too large. This resulted into compressing the image files which led to the decrease in some image quality.
 
 - ## Deployment
-         
-   - The website was originally created using code anywhere worspace 
+
+ -  The project was developed using Gitpod as the code editor, committed to Git as a local 
+   repository, and finally pushed/ stored to GitHub. 
+ 
+ - The website was originally created using code anywhere worspace 
     and dev tools, 
     due to lots of issues and bugs, and to meet up with the submission desadline I   was advised to download project files and open a new workspace using gitpod  which was used to complete and submit the project.
 
@@ -252,6 +255,42 @@ The wireframes can be found in the link below:
    - Getting into the habit of commenting when submitting any 
       changes to the site allowed me to better document the changes I made when creating the site. 
     - Using terminal to pull and push my repository.
+
+
+
+The project was developed using Gitpod as the code editor, committed to Git as a local repository, and finally pushed/ stored to GitHub. 
+
+
+The project was deployed to GitHub Pages using the following steps:
+1.	Log in to GitHub.
+2.	Navigate to the main page of GitHub Repository that will be deployed.
+3.	At the top of the Repository, locate the "Settings" button on the menu and click it.
+4.	Inside the Settings, on the left side of the page, there’s a list of tab menu. Locate the “Pages” tab, and click it.
+5.	Under "Source", click the dropdown called "None", select "Master", and then click the “Save” button.
+6.	The page will automatically refresh.
+7.	There’s a notification message that provides the now published site link: “Your site is ready to be published at "https://57esther.github.io/Climate-Change/ "
+  
+
+
+- ### Forking the GitHub Repository
+By forking the GitHub repository you can make a copy of the original repository on your GitHub account to view and/or make changes without affecting the original repository, by using the following steps:
+1.	Log in to GitHub.
+2.	Navigate to the main page of the GitHub Repository that you want to fork.
+3.	At the top right of the Repository just below your profile picture, locate the "Fork" Button.
+4.	You should now have a copy of the original repository in your GitHub account.  
+
+Changes made to the forked repository can be merged with the original repository via a pull request.  
+
+
+- ## Acknowledgements
+   - My mentor, Oluwaseun Owonikoko, for the helpful feedback on every detail of the website.
+   - Iris Smok, My facilitator for her help and support.
+   - Oscar Bartrand, For his help and support.
+   Pri Dom, For his help and support.
+   - My husband Joseph, for his daily continuous support and for testing the website across our mobile devices.
+   - Slack community, as the first help to ask when I encountered a problem.
+
+[Back to top](https://57esther.github.io/Climate-Change/)  
 
 
 
