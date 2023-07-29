@@ -44,9 +44,10 @@ This website targets audience around the world, because of its useful insight, i
 
 ### Site Purpose
 
-The purpose of the Climate Change website is  to create awareness of issues affecting the planet and how daily lifestyle change can reduces the effect of these cause globally.
+- The purpose of the Climate Change website is  to create 
+ awareness of issues affecting the planet and how daily lifestyle change can reduces the effect of these cause globally.
 
-### User Stories
+- ### User Stories
 
 As a user I want:
 
@@ -98,7 +99,7 @@ As the develpoer of the wesite I want:
 - ### Design
 
 
-   - #### Colour Scheme
+ - #### Colour Scheme
    
    The colors used are primarily derived from the logo, the hero image, and other images in the website, to create a cohesive contrasting color scheme from beginning to end. I used [constrast grid.eightshapes](https://contrast-grid.eightshapes.com/) to identify the three colors (in the middle) for background and images and add another two colors that fit well with the other three.  
    ![The color scheme](assets/readme-img/EightShapes-Contrast-color.png "The color scheme")
@@ -119,14 +120,16 @@ As the develpoer of the wesite I want:
      All of the fonts were sourced from the [Google Fonts](https://fonts.google.com).
 
 - Main font: Lato
-    -  Lato is used as the main font, for all paragraphs, and links in navbar and footer. lato was chosen because it has 
+    -  Lato is used as the main font, for all paragraphs,  
+      and links in navbar and footer. lato was chosen because it has 
        modern, clean, and simple style, and following the recommendation in Google fonts of popular pairing font with 
        oswald.  
 
--  Secondary font: Oswald 
+   -    Secondary font: Oswald 
        Oswlad is used as the header font for the website. It was chosen first, since I wanted to choose a beautiful and impactful font for the heading inside the hero-image, since that is the first impression of the website from the user’s perspective. 
 
-    -   both Lato and Oswald were used as main and fallback font. Lato and Oswald are clean, 
+  -   Bboth Lato and Oswald were used as main and fallback 
+      font. Lato and Oswald are clean, 
         modern  and vibrant font that adds to the overall aesthetic and readability of the content.
    
 - ### Imagery
@@ -145,15 +148,22 @@ As the develpoer of the wesite I want:
 - ### Wireframes
 
  -#### Skeleton Plane
-   Wireframes were created using balsamiq to design the navigation and interface of the website. The developer designed it with a good UI design in mind, which allows immediate interaction in first-time learning, and perfectly meets the needs of the intended audience.  
+
+  - Wireframes were created using balsamiq to design the navigation and interface of the website. The developer designed it with a good UI design in mind, which allows immediate interaction in first-time learning, and perfectly meets the needs of the intended audience.  
 
 The wireframes can be found in the link below:  
 
-   [Wireframes for desktop](assets/readme-img/window-wireframe-1.png)(assets/readme-img/window-wireframe-2.png)(assets/readme-img/window-wireframe-3.png)
+[Wireframes for desktop](assets/readme-img/window-wireframe-1.png)
+[Wireframes for desktop](assets/readme-img/window-wireframe-2.png)
+[Wireframes for desktop](assets/readme-img/window-wireframe-3.png)
 
-   [Wireframes for tablet](assets/readme-img/ipad-wireframe-png-1.png)(assets/readme-img/ipad-wireframe-2.png)(assets/readme-img/ipad-wireframe-3.png)
+[Wireframes for tablet](assets/readme-img/ipad-wireframe-png-1.png)
+[Wireframes for tablet](assets/readme-img/ipad-wireframe-2.png)
+[Wireframes for tablet](assets/readme-img/ipad-wireframe-3.png)
 
-   [Wireframes for mobile](assets/readme-img/mobile-wireframe-1.png)(assets/readme-img/mobile-wireframe-2.png)(assets/readme-img/mobile-wireframe-png-3.png)
+[Wireframes for mobile](assets/readme-img/mobile-wireframe-1.png)
+[Wireframes for mobile](assets/readme-img/mobile-wireframe-2.png)
+[Wireframes for mobile](assets/readme-img/mobile-wireframe-png-3.png)
 
 <br/>
 
