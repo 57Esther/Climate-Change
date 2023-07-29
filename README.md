@@ -55,8 +55,9 @@ As a user I want:
 
 As the develpoer of the wesite I want:
 
-1. To provide clear and relevant information regarding the website
-2. To provide a place for people to ask any questions they might have regarding the climate issues
+1. To provide clear and relevant information regarding the website.
+2. To provide a place for people to ask any questions they might have regarding the climate issues.
+3. To provide information on how to reduce/stop the effect of cimate change.
 
 ### Goals
 
@@ -97,78 +98,149 @@ As the develpoer of the wesite I want:
 
 
    - #### Colour Scheme
+   
+   The colors used are primarily derived from the logo, the hero image, and other images in the website, to create a cohesive contrasting color scheme from beginning to end. I used [constrast grid.eightshapes](https://contrast-grid.eightshapes.com/) to identify the three colors (in the middle) for background and images and add another two colors that fit well with the other three.  
+   ![The color scheme](assets/readme-img/EightShapes-Contrast-color.png "The color scheme")
 
    - The website primarily uses a combination of vibrant colors, including grey and white to create an energetic and engaging visual experience.
 
-   - mint - #
-   - black - #333
-   - white - #fff
-   -
-   -
-- A mixture of all the above colours were used throughout the site.
-
+   - #d6ffff
+   - #41a323
+   - #333
+   - #ffffff
+   - #33831b
+   - A mixture of all the above colours were used throughout the site.
+ 
 
 
 
 - ### Typograpy
+     All of the fonts were sourced from the [Google Fonts](https://fonts.google.com).
 
--  The main font used throughout the website is Lato, with Oswald as the fallback font. Lato and Oswald is a clean, modern  and vibrant font that adds to the overall aesthetic and readability of the content.
- -Lato is compliment the color of the logo brilliantly, keeping the website consistent throughout.
+- Main font: Lato
+    -  Lato is used as the main font, for all paragraphs, and links in navbar and footer. lato was chosen because it has 
+       modern, clean, and simple style, and following the recommendation in Google fonts of popular pairing font with 
+       oswald.  
 
+-  Secondary font: Oswald 
+       Oswlad is used as the header font for the website. It was chosen first, since I wanted to choose a beautiful and impactful font for the heading inside the hero-image, since that is the first impression of the website from the user’s perspective. 
+
+    -   both Lato and Oswald were used as main and fallback font. Lato and Oswald are clean, 
+        modern  and vibrant font that adds to the overall aesthetic and readability of the content.
+   
 - ### Imagery
-      -
+
+   These images were sourced from [Freepik](https://www.freepik.com), and [Unsplash](https://unsplash.com).  
+   * Hero Image is chosen because it’s blends with the tittle, so the heading text can stand out more, and it’s giving a clean and fresh feeling of living “climate change”.
+   * All of the images in the website were taken from a free stock-photos website, as representations of what’s inside the shop, to provide clear imagery to the user and let the user know what to expect.
+
+<br />
+
+[Back to top](https://57esther.github.io/Climate-Change/)  
+
+
+
 
 - ### Wireframes
 
-   -
+ -#### Skeleton Plane
+   Wireframes were created using balsamiq to design the navigation and interface of the website. The developer designed it with a good UI design in mind, which allows immediate interaction in first-time learning, and perfectly meets the needs of the intended audience.  
 
-  -
+The wireframes can be found in the link below:  
 
-  -
+   [Wireframes for desktop](assets/readme-img/window-wireframe-1.png)(assets/readme-img/window-wireframe-2.png)(assets/readme-img/window-wireframe-3.png)
 
+   [Wireframes for tablet](assets/readme-img/ipad-wireframe-png-1.png)(assets/readme-img/ipad-wireframe-2.png)(assets/readme-img/ipad-wireframe-3.png)
+
+   [Wireframes for mobile](assets/readme-img/mobile-wireframe-1.png)(assets/readme-img/mobile-wireframe-2.png)(assets/readme-img/mobile-wireframe-png-3.png)
+
+<br/>
 
 - ## Features
 
+  - ### Existing Features 
+    1. Navigation Bar (Navbar)
+
+    -The Navbar consists of a Logo on the left side that links to the top of the site, and three navigation links (nav-bar) on the right side that link to the sections. It occupies 100% width of the site.  
+    - The Navbar is fully responsive on all device sizes. On desktop view, the user can see all the nav-links. 
+    - The Nav-links have an active state which changes according to which section the user is currently looking at.  
+    -The Nav-links have a subtle hover state  when the user hovers over them.  
+    - The Navbar is fixed at the top of the user’s device screen, it follows along when the user scrolls down.  
 
 
-
-
-- ## Technology Stack
+- ## Technology Used
 
    - Languages Used
         -[HTML5]( https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
         -[CSS3]( https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-   - Frameworks, Libraries, and Programs Used 
-       -[Font Awesome](https://fontawesome.com/)
-       -[Git](https://git-scm.com/)
-       -[GitHub](https://github.com/)
-       -[Gitpod](https://www.gitpod.io/)
-       -[Google Chrome DevTools](https://developer.chrome.com/docs/devtools/) 
-       -[Google Fonts](https://fonts.google.com/)
-       -[Material Design](https://material.io/resources/color/#!/)
-       -[Balsamiq](Wireframe design)
+ - ### Frameworks, Libraries & Programs Used 
+   
+    1. [bootsrap5](https://getbootstrap.com/ 
+      docs/5.0/getting-started/introduction/)  
+       Bootstrap 5 was used to assist with the responsiveness and styling of the website.  
+    2. [Google Fonts](https://fonts.google.com)  
+      Google fonts was used to import the “Lato” and“Oswald” fonts into the html file, and were used on all parts of the site.  
+    3. [Font Awesome](https://fontawesome.com)  
+       Font Awesome was used throughout the website to add icons for aesthetic and UX purposes.
+    4. [Git](https://git-scm.com)  
+       Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.  
+    5. [GitHub](https://github.com)  
+      GitHub was used to store the projects code after being pushed from Git. 
+    6. [Balsamiq](https://balsamiq.com/)  
+      Balsamiq was used to create the wireframes and the high fidelity mock up during the design process.  
+    7. [Am I Responsive](ami.responsivedesign.is)  
+      Am I Responsive was used to preview the website across a variety of popular devices. 
+    8. [Tiny JPG](https://tinyjpg.com)  
+      Tiny JPG was used to reduce the file size of the images.
+    9. [contrast-grid.eightshapes](https://contrast-grid.eightshapes.com/)  
+       Constract grid was used to create a cohesive color scheme for the website.
+    10. [Balsamiq](Wireframe design)
+    11. [youtube](https://youtube.come)
+        I did lots of personal learning on youtube.
+    12. [Gitpod](https://www.gitpod.io/)
+        Gitpod was use to finalise and complete the project.
+    13. [Code anywhere](https://codeanywhere.com/)
+    14. [Google Chrome DevTools](https://developer.chrome.com/docs/ 
+       devtools/) 
+           
+   <br /> 
 
 - ## Testing
 
    - ### Validated the HTML and CSS code using W3C validators.
-            Initially the site was recieving a lot of errors due to an outdated Font awesome link.
-            I struggled with trying to import JS Font awesome, however managed to stick it through and get the issue resolved.
+          -The website was tested using html validator and css validator
+          -Initially the site was recieving a lot of errors due to an outdated Font awesome link.
+          -  I struggled with trying to import Font awesome, however managed to stick it through and get the issue resolved.
 
-   - ### Tested the website on various browsers and devices with various individuals.
+
+
+
+
+
+   - ### Tested the website on various browsers and devices.
+
+
            - Similar issue with Lighthouse. Lighthouse scores were poor, managed to score better when switching to incognito mode. Chrome extensions had an affect on website's performance score.
+
+
+           
 
        - ### Conducted user testing with friends and family members.
              Users enjoyed the sites visuals however later found out that the visuals were taking too much space and were too large. This resulted into compressing the image files which led to the decrease in some image quality.
 
 - ## Deployment
          
-         The website was originally created using code anywhere worspace and dev tools,
+   - The website was originally created using code anywhere worspace 
+    and dev tools, 
+    due to lots of issues and bugs, and to meet up with the submission desadline I   was advised to download project files and open a new workspace using gitpod  which was used to complete and submit the project.
 
-         The website is deployed using GitHub Pages, which hosts the project directly from the GitHub repository. Changes made to the repository are automatically reflected on the live site.
+   - The website is deployed using GitHub Pages, which hosts the 
+     project directly from the GitHub repository. Changes made to the repository are automatically reflected on the live site.
 
-           Getting into the habit of commenting when submitting any changes to the site allowed me to better document the changes I made when creating the site. 
-            Using terminal to pull and push my repository.
+   - Getting into the habit of commenting when submitting any 
+      changes to the site allowed me to better document the changes I made when creating the site. 
+    - Using terminal to pull and push my repository.
 
 
 

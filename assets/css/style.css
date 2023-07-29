@@ -22,7 +22,7 @@ h2 {
 .logo {
     font-family: Lato;
     text-transform: uppercase;
-    font-size: 200%;
+    font-size: 250%;
     color: #41a323;
     text-align: center;
     background-color: #d6ffff; 
@@ -63,14 +63,15 @@ h2 {
 #menu a {
     text-decoration: none;
     color: #41a323;
+    
 }
 
 #menu a:hover {
-    border-bottom: 1px solid #717171;
+    border-bottom: 1px solid #33831b ;
 }
 
 .active {
-    border-bottom: 1px solid #717171;
+    border-bottom: 1px solid #33831b;
 }
  
  #hero-image {
@@ -94,7 +95,7 @@ h2 {
 
 #about-us >h2 {
     font-size: 100px;
-    color: #5b9292;
+    color: #33831b;
 }
 
 #about-us > p{
@@ -107,7 +108,7 @@ h2 {
 
 #causes-effect >h2{
    font-size: 100px;
-   color: #5b9292;
+   color: #33831b;
 
 
 }
@@ -115,7 +116,7 @@ h2 {
 
 #combact-effect  >p{
 text-align: justify;
-text-decoration: solid;
+text-decoration: none;
 
 }
 
@@ -153,7 +154,7 @@ iframe{
 
 
 .social-links > a {
-   color: white;
+   color: #ffffff;
    font-size: 35px;
    padding-right: 10px;
 
@@ -198,8 +199,8 @@ form button{
 /*GALLERY.HTML*/
 
 #gallery-tittle {
-    font-size: 100%;
-    text-align: justify;
+    font-size: 80%;
+    text-align: center;
     color: #33831b;
 }
 
@@ -228,8 +229,8 @@ form button{
 }
 
  #photos img {
-    height: auto;
-    width: 100%;
+    height: 11%;
+    width: 200%;
 
 }
 
