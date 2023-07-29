@@ -7,7 +7,7 @@
   
      The site address is: [ Climate Chang](https://57esther.github.io/Climate-Change/)
 
-      ![Website respinsiveness](assets/readme-img/responsive-tesing.png)
+      ![Website respinsiveness](assets/readme-img/responsive-mockup-image.png)
 
 
 ## Table of contents
