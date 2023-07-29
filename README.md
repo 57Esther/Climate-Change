@@ -1,13 +1,14 @@
-    # Climate Change Website 
+   # Climate Change Website 
 
-
-      This is the main climate change website, a platform designed to help individuals achieve their goals and make positive changes in their lives by creating awareness of the issues of global warming and how making some simple lifestyle changes can keep our nautral habitat and earth safe which will help improve our planet. 
-      This website is responsive and accessible on a range of devices, making it easier for users to navigate and find valuable content.
+ - This is the main climate change website, a platform 
+   designed to help individuals achieve their goals and make positive changes in their lives by creating awareness of the issues of global warming and how making some simple lifestyle changes can keep our nautral habitat and earth safe which will help improve our planet. 
+- This website is responsive and accessible on a range of 
+  devices, making it easier for users to navigate and find valuable content.
  
   
-     The site address is: [ Climate Chang](https://57esther.github.io/Climate-Change/)
+The site address is: [ Climate Chang](https://57esther.github.io/Climate-Change/)
 
-      ![Website respinsiveness](assets/readme-img/responsive-mockup-image.png)
+![Website respinsiveness](assets/readme-img/responsive-mockup-image.png)
 
 
 ## Table of contents
@@ -224,7 +225,7 @@ The wireframes can be found in the link below:
            - Similar issue with Lighthouse. Lighthouse scores were poor, managed to score better when switching to incognito mode. Chrome extensions had an affect on website's performance score.
 
 
-           
+
 
        - ### Conducted user testing with friends and family members.
              Users enjoyed the sites visuals however later found out that the visuals were taking too much space and were too large. This resulted into compressing the image files which led to the decrease in some image quality.
