@@ -117,6 +117,8 @@ text-align: justify;
 text-decoration: solid;
 
 }
+
+
 .col > div > p > a{
     background-color: #ffffff;
     color: #0d6efd ;
@@ -124,7 +126,7 @@ text-decoration: solid;
 
 
 #comabct-effect h5 {
-    font-weight: 700;
+    font-weight: 300;
 }
 
 
@@ -141,8 +143,13 @@ text-decoration: solid;
 } 
 
 iframe{
-    width: 100%;
+    width: 100%; 
+    height:100%;
+    border-style: none;
+    flex-shrink: none;
+
 }
+
 
 .social-links > a {
    color: white;
@@ -186,6 +193,7 @@ form button{
 
 
 
+
 /*GALLERY.HTML*/
 
 #gallery-tittle {
@@ -225,6 +233,8 @@ form button{
 }
 
 /* END OF GALLERY.HTML*/
+
+
 
 /* SIGN UP.HTML*/
 
@@ -310,6 +320,8 @@ form button{
 
 
  /* END OF SIGNUP.HTML*/
+
+
 
 
 
