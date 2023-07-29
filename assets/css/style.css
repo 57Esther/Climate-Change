@@ -241,12 +241,12 @@ form button{
     color: #4c833b;
     height: 100px;
     width: 50%;
-    float: right;
+    text-align: center;
 }
 
 
 #signup-reason >p {
-    text-align: right;
+    text-align: center;
 }
 
 
