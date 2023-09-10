@@ -6,7 +6,7 @@
   devices, making it easier for users to navigate and find valuable content.
  
   
-The site address is: [ Climate Chang](https://57esther.github.io/Climate-Change/)
+The site address is: [ Climate Change](https://57esther.github.io/Climate-Change/)
 
 ![Website respinsiveness](assets/readme-img/responsive-mockup-image.png)
 
@@ -51,14 +51,15 @@ This website targets audience around the world, because of its useful insight, i
 
 As a user I want:
 
-1. A website that is easy to read and navigate
-2. Clear information about the club; where they meet, dates and times, what kind of books are read etc
-3. To feel welcome joining a new club
+1. A website that is easy to read and navigate.
+2. Clear information about the website; purpose and need of the site, how to access content on the site.
+3. To navigate the site easily and option to sign-up for update and information.
+
 
 As the develpoer of the wesite I want:
 
 1. To provide clear and relevant information regarding the website.
-2. To provide a place for people to ask any questions they might have regarding the climate issues.
+2. To provide a place for people to ask any questions they might have regarding climate issues.
 3. To provide information on how to reduce/stop the effect of cimate change.
 
 ### Goals
@@ -119,18 +120,17 @@ As the develpoer of the wesite I want:
 - ### Typograpy
      All of the fonts were sourced from the [Google Fonts](https://fonts.google.com).
 
-- Main font: Lato
+- Main font: Lato.
     -  Lato is used as the main font, for all paragraphs,  
       and links in navbar and footer. lato was chosen because it has 
        modern, clean, and simple style, and following the recommendation in Google fonts of popular pairing font with 
        oswald.  
 
-   -    Secondary font: Oswald 
+   -    Secondary font: Oswald. 
        Oswlad is used as the header font for the website. It was chosen first, since I wanted to choose a beautiful and impactful font for the heading inside the hero-image, since that is the first impression of the website from the user’s perspective. 
 
-  -   Bboth Lato and Oswald were used as main and fallback 
-      font. Lato and Oswald are clean, 
-        modern  and vibrant font that adds to the overall aesthetic and readability of the content.
+  -   Both Lato and Oswald were used as main and fallback font.
+      Lato and Oswald are clean, modern  and vibrant font that adds to the overall aesthetic and readability of the content.
    
 - ### Imagery
 
@@ -221,26 +221,23 @@ The wireframes can be found in the link below:
 - ## Testing
 
    - ### Validated the HTML and CSS code using W3C validators.
-          -The website was tested using html validator and css validator
-          -Initially the site was recieving a lot of errors due to an outdated Font awesome link.
-          -  I struggled with trying to import Font awesome, however managed to stick it through and get the issue resolved.
+           -The website was tested using html validator and css validator
+           -Initially the site was recieving a lot of errors due to an outdated Font awesome link.
+           -I struggled with trying to import Font awesome, however managed to stick it through and get the issue resolved.
+
+
+
+- ### Tested the website on various browsers and devices.
 
 
 
 
 
 
-   - ### Tested the website on various browsers and devices.
 
 
-           - Similar issue with Lighthouse. Lighthouse scores were poor, managed to score better when switching to incognito mode. Chrome extensions had an affect on website's performance score.
-
-
-
-
-       - ### Conducted user testing with friends and family members.
-             Users enjoyed the sites visuals however later found out that the visuals were taking too much space and were too large. This resulted into compressing the image files which led to the decrease in some image quality.
-
+  - ### Conducted user testing with friends and family members.
+      Users enjoyed the sites visuals however later found out that the visuals were taking too much space and were too large. This resulted into compressing the image files which led to the decrease in some image qua
 - ## Deployment
 
  -  The project was developed using Gitpod as the code editor, committed to Git as a local 

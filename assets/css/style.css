@@ -7,21 +7,22 @@
 }
 
 body {
-    font-family: Lato;
+    font-family: Lato, Oswald;
     color: #33831b;
     background-color: #ffffff;
 }
 
 h2 {
-    font-family: lato;
+    font-family: lato, Oswald;
     text-decoration: none;
     
 }
    
 
 .logo {
-    font-family: Lato;
+    font-family: Lato, Oswald;
     text-transform: uppercase;
+    text-decoration: none;
     font-size: 250%;
     color: #41a323;
     text-align: center;
