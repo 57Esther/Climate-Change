@@ -7,21 +7,22 @@
 }
 
 body {
-    font-family: Lato;
+    font-family: Lato, Oswald;
     color: #33831b;
     background-color: #ffffff;
 }
 
 h2 {
-    font-family: lato;
+    font-family: lato, Oswald;
     text-decoration: none;
     
 }
    
 
 .logo {
-    font-family: Lato;
+    font-family: Lato, Oswald;
     text-transform: uppercase;
+    text-decoration: none;
     font-size: 250%;
     color: #41a323;
     text-align: center;
@@ -67,11 +68,13 @@ h2 {
 }
 
 #menu a:hover {
-    border-bottom: 1px solid #33831b ;
+    border-bottom: 1px solid #33831b;
+    text-decoration: none;
 }
 
 .active {
     border-bottom: 1px solid #33831b;
+    text-decoration: none;
 }
  
  #hero-image {
@@ -128,7 +131,7 @@ text-decoration: none;
 
 
 #comabct-effect h5 {
-    font-weight: 300;
+    font-weight: 300px;
 }
 
 
@@ -148,7 +151,7 @@ iframe{
     width: 100%; 
     height:100%;
     border-style: none;
-    flex-shrink: none;
+    
 
 }
 
@@ -162,10 +165,11 @@ iframe{
 
 
 .footer div h3{
-    font-weight: 300px;
-    margin-bottom: 30px;
-    letter-spacing: 1px;
+
+     margin-bottom: 30px;
+     letter-spacing: 1px;
 }
+
 
 form input{
     width: 100%;
@@ -183,7 +187,7 @@ form input{
 form button{
     background-color: #efefef;
     border:  2px solid #ffffff;
-    color-scheme: #ffffff;
+    color-scheme: #efefef;
     border-radius: 30px;
     padding: 10px 30px;
     font-size: 15px;
@@ -216,6 +220,10 @@ form button{
 
 #gallery-tittle  >p {
     text-align: center;
+    text-transform: uppercase;
+    height: 50px;
+    width: 100%;
+
     
 }
 
@@ -229,8 +237,8 @@ form button{
 }
 
  #photos img {
-    height: 11%;
-    width: 200%;
+    height: 6%;
+    width: 100%;
 
 }
 
@@ -251,13 +259,15 @@ form button{
 
     text-transform: uppercase;
     color: #4c833b;
-    height: 50%;
-    width: 50%;
+    height: auto;
+    width: fit-content;
     text-align: center;
 }
 
 
 #signup-reason >p {
+    height: auto;
+    width: fit-content;
     text-align: center;
 }
 
