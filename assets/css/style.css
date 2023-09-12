@@ -64,12 +64,14 @@ h2 {
 #menu a {
     text-decoration: none;
     color: #41a323;
+    text-align: center;
     
 }
 
 #menu a:hover {
     border-bottom: 1px solid #33831b;
     text-decoration: none;
+    margin: 1.5rem;
 }
 
 .active {
@@ -80,6 +82,8 @@ h2 {
  #hero-image {
     height: 600px;
     width: 100%;
+    line-height: 0%;
+    margin-bottom: 0%;
     background: url("../images/hero-image.jpg");
     background-position: center;
     background-size: cover;
@@ -289,7 +293,7 @@ form button{
 
 }
 
-.signup-form >h2 {
+.signup-form >h1 {
     color: #ffffff;
     background-color: #31a50a;
     margin-bottom: 20px;
