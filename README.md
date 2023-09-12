@@ -220,10 +220,11 @@ The wireframes can be found in the link below:
 
 - ## Testing
 
-   - ### Validated the HTML and CSS code using W3C validators.
-           -The website was tested using html validator and css validator
-           -Initially the site was recieving a lot of errors due to an outdated Font awesome link.
-           -I struggled with trying to import Font awesome, however managed to stick it through and get the issue resolved.
+  - ### Validated the HTML and CSS code using W3C validators.
+   -The website was tested using html validator and css validator
+   -Initially the site was recieving a lot of errors due to an outdated Font awesome link.
+   -I struggled with trying to import Font awesome,however managed to stick it through 
+   and get the issue resolved.
 
 
 
