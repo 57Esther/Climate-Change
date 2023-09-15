@@ -167,11 +167,11 @@ The wireframes can be found in the link below:
 
 <br/>
 
-- ## Features
+- ## Features and Structures.
 
-  - ### Existing Features
+  - git### Existing Features and Structure.
 
-   -Navigation Bar (Navbar).
+   - #### Navigation Bar (Navbar).
 
     -The Navbar consists of a Logo on the left side that links to the top of the site, and three navigation links (nav-bar) on the right side that link to the sections. It occupies 100% width of the site.  
     - The Navbar is fully responsive on all device sizes. On desktop view, the user can see all the nav-links. 
@@ -180,20 +180,19 @@ The wireframes can be found in the link below:
     - The Navbar is fixed at the top of the user’s device screen, it follows along when the user scrolls down. 
 
 
- -Home Page 
+ - #### Home Page 
      - The home page has all the information and detailed ideas about the project.
 
     -Hero image.
-      - The backround image, shows the adverse effects of the cause and danger of climate change.
-      - The  two coloured effects shows how quickly actions needs to be taken to keep our planets safe.
-      - The choice of hero image showing the liveness and health of the planet through the bubbly tree    
-       full of life and then turn into an empty and withered tree portrays a message about the effects of climate change. which makes it a perfect choice for the hero-image.  
-
-
-   -About and Purpose.
+     - The backround image, shows the adverse effects of the cause and danger of climate change.
+     - The  two coloured effects shows how quickly actions needs to be taken to keep our planets safe.
+     - The choice of hero image showing the liveness and health of the planet through the bubbly tree    
+      full of life and then turn into an empty and withered tree portrays a message about the effects of climate change. which makes it a perfect choice for the hero-image.  
+    
+    -About and Purpose.
      -Easy to read and visible purpose of the site can be seen after the hero image.
 
-   -Causes and Effect.
+    -Causes and Effect.
      -The effect of change can be seen after the purpose of the site.
 
     -Combacting Climate Issues.
@@ -201,15 +200,15 @@ The wireframes can be found in the link below:
 
 
 
-  -Gallery and Images of Effects.
+- #### Gallery and Images of Effects.
     -This section contain Images of some effects of climate and how it afffects things around us.
 
 
- -Sign-up and Map Iframe Information.
+ - #### Sign-up and Map Iframe Information.
     -This sections offers an option for sign-up to anyone who wants to know more about the project.
     -The map iframe was created to show credibility.
 
- -Footer and social links.
+  -#### Footer and social links.
      -Shows the the map location, social linka and icons, addition feature to sign up to newsletter to recieve latest updates.
     
 
@@ -252,28 +251,34 @@ The wireframes can be found in the link below:
 
    <br /> 
 
-- ## Testing
+- ## Testing and Validation.
 
   - ### Validated the HTML and CSS code using W3C validators.
+
    -The website was tested using html validator and css validator: 
     ![testing](assets/readme-img/First-project-testing.png)
     ![testing](assets/readme-img/First-project-testing-2.png)
-   -Initially the site was recieving a lot of errors due to an outdated Font awesome link.
-   -I struggled with trying to import Font awesome,however managed to stick it through 
-   and get the issue resolved.
 
-  -### Testin for Responsiveness.
+   - ### Retesting and validation.
+     -Initially the site was recieving a lot of errors due to an outdated Font awesome link.
+     -I struggled with trying to import Font awesome,however managed to stick it through 
+     and get the issue resolved.
+
+  - ### Testing for Responsiveness.
    - I tested for responsiveness using am i responsive site with images attached
      here:![testing](assets/readme-img/Am-I-Responsive-testing.png)
 
+
+
   - ### Tested the website on various browsers and devices.
 
-   -Destop and Laptop.
+   - ### Destop and Laptop.
     - The website was responsive on various destop and laptop, the home page was well responsive and all features came great and easy to access, the gallery page took few minutes to load images and the sign-up page all allign and fit to content.
 
-   -Tablets and Mac.
+   - ### Tablets and Mac.
      - The website was responsive on various tablets and mac, the home page was well responsive and all features came great and easy to access, the gallery page took few minutes to load images and the sign-up page all allign and fit to content. had a bit of issues with the images and sign up page, i inspected using dev tools and fix the issues by reducing the size of images and removing some css styling.
-  - Mobile Phone.
+
+  - ### Mobile Phone.
     - The website was responsive on various mobile phones, the home page was well responsive and all features came out great and easy to access, the gallery page took few minutes to load images and the sign-up page  didnt allign and fit to content. had a bit of issues with the images and sign up page, i inspected using dev tools and fix the issues by reducing the size of images and removing some css styling on the sign-up page.
 
 
@@ -283,7 +288,8 @@ The wireframes can be found in the link below:
 
 
 
--## Issues And Bugs.
+
+- ## Issues And Bugs.
 
    -While working on the project, i started with codeanywhere and open my workspace accordingly.
    - I started experiencing difficuities with commiting my change to github, then diverge main and branch issues also came up which took considerably amount of time which should have gone into getting the project ready for submission. Images attached below: 
@@ -291,7 +297,9 @@ The wireframes can be found in the link below:
    ![issues and bugs](assets/readme-img/issues-2.png)
    ![issues and bugs](assets/readme-img/issues-3.png)
 
--## Deployment
+
+
+- ## Deployment
 
  -  The project was developed using Gitpod as the code editor, committed to Git as a local 
    repository, and finally pushed/ stored to GitHub. 
