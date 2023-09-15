@@ -147,7 +147,7 @@ As the develpoer of the wesite I want:
 
 - ### Wireframes
 
- -#### Skeleton Plane
+ - #### Skeleton Plane
 
   - Wireframes were created using balsamiq to design the navigation and interface of the website. The developer designed it with a good UI design in mind, which allows immediate interaction in first-time learning, and perfectly meets the needs of the intended audience.  
 
@@ -169,48 +169,59 @@ The wireframes can be found in the link below:
 
 - ## Features and Structures.
 
-  - git### Existing Features and Structure.
+  - ### Existing Features and Structure.
 
    - #### Navigation Bar (Navbar).
 
-    -The Navbar consists of a Logo on the left side that links to the top of the site, and three navigation links (nav-bar) on the right side that link to the sections. It occupies 100% width of the site.  
-    - The Navbar is fully responsive on all device sizes. On desktop view, the user can see all the nav-links. 
-    - The Nav-links have an active state which changes according to which section the user is currently looking at.  
-    -The Nav-links have a subtle hover state  when the user hovers over them.  
-    - The Navbar is fixed at the top of the user’s device screen, it follows along when the user scrolls down. 
+
+    - The Navbar consists of a Logo on the left side that links to the top of the site, and three 
+     navigation links (nav-bar) on the right side that link to the sections. It occupies 100% width of the site.  
+    - The Navbar is fully responsive on all device sizes. On desktop view, the user can see all the    
+      links. 
+    - The Nav-links have an active state which changes according to which section the user is currently 
+     looking at.  
+    - The Nav-links have a subtle hover state  when the user hovers over them.  
+    - The Navbar is fixed at the top of the user’s device screen, it follows along when the user scrolls 
+     down. 
 
 
  - #### Home Page 
      - The home page has all the information and detailed ideas about the project.
 
-    -Hero image.
+     - Hero image.
      - The backround image, shows the adverse effects of the cause and danger of climate change.
      - The  two coloured effects shows how quickly actions needs to be taken to keep our planets safe.
      - The choice of hero image showing the liveness and health of the planet through the bubbly tree    
       full of life and then turn into an empty and withered tree portrays a message about the effects of climate change. which makes it a perfect choice for the hero-image.  
     
-    -About and Purpose.
-     -Easy to read and visible purpose of the site can be seen after the hero image.
+    - About and Purpose.
 
-    -Causes and Effect.
-     -The effect of change can be seen after the purpose of the site.
+     - Easy to read and visible purpose of the site can be seen after the hero image.
 
-    -Combacting Climate Issues.
-     -Likely solution to the climate change isssues were highlighted in this section.
+    - Causes and Effect.
+
+     - The effect of change can be seen after the purpose of the site.
+
+    - Combacting Climate Issues.
+
+     - Likely solution to the climate change isssues were highlighted in this section.
 
 
 
 - #### Gallery and Images of Effects.
-    -This section contain Images of some effects of climate and how it afffects things around us.
+    - This section contain Images of some effects of climate and how it afffects things around us.
 
 
  - #### Sign-up and Map Iframe Information.
-    -This sections offers an option for sign-up to anyone who wants to know more about the project.
-    -The map iframe was created to show credibility.
+    - This sections offers an option for sign-up to anyone who wants to know more about the project.
+    - The map iframe was created to show credibility.
 
-  -#### Footer and social links.
-     -Shows the the map location, social linka and icons, addition feature to sign up to newsletter to recieve latest updates.
+  - #### Footer and social links.
+     - Shows the the map location, social linka and icons, addition feature to sign up to newsletter to recieve latest updates.
     
+- ## Media
+
+
 
 - ## Technology Used
 
@@ -255,13 +266,13 @@ The wireframes can be found in the link below:
 
   - ### Validated the HTML and CSS code using W3C validators.
 
-   -The website was tested using html validator and css validator: 
+   - The website was tested using html validator and css validator: 
     ![testing](assets/readme-img/First-project-testing.png)
     ![testing](assets/readme-img/First-project-testing-2.png)
 
    - ### Retesting and validation.
-     -Initially the site was recieving a lot of errors due to an outdated Font awesome link.
-     -I struggled with trying to import Font awesome,however managed to stick it through 
+     - Initially the site was recieving a lot of errors due to an outdated Font awesome link.
+     - I struggled with trying to import Font awesome,however managed to stick it through 
      and get the issue resolved.
 
   - ### Testing for Responsiveness.
@@ -291,7 +302,7 @@ The wireframes can be found in the link below:
 
 - ## Issues And Bugs.
 
-   -While working on the project, i started with codeanywhere and open my workspace accordingly.
+   - While working on the project, i started with codeanywhere and open my workspace accordingly.
    - I started experiencing difficuities with commiting my change to github, then diverge main and branch issues also came up which took considerably amount of time which should have gone into getting the project ready for submission. Images attached below: 
    ![issues and bugs](assets/readme-img/issues-bugs-1.png)
    ![issues and bugs](assets/readme-img/issues-2.png)
@@ -306,14 +317,14 @@ The wireframes can be found in the link below:
  
  - The website was originally created using code anywhere worspace 
     and dev tools, 
-    due to lots of issues and bugs, and to meet up with the submission desadline I   was advised to download project files and open a new workspace using gitpod  which was used to complete and submit the project.
+    due to lots of issues and bugs, and to meet up with the submission deadline I was advised to download project files and open a new workspace using gitpod  which was used to complete and submit the project.
 
    - The website is deployed using GitHub Pages, which hosts the 
      project directly from the GitHub repository. Changes made to the repository are automatically reflected on the live site.
 
    - Getting into the habit of commenting when submitting any 
       changes to the site allowed me to better document the changes I made when creating the site. 
-    - Using terminal to pull and push my repository.
+   - Using terminal to pull and push my repository.
 
 
 
@@ -340,12 +351,30 @@ By forking the GitHub repository you can make a copy of the original repository 
 
 Changes made to the forked repository can be merged with the original repository via a pull request.  
 
+- ## Credits.
 
-- ## Acknowledgements
+ - ### Content.
+   - All content was written by Oluwaseun Adeoye
+   - The structure of the home page was discuss with my mentor and I decided on the finish looks and 
+     colours.
+   - The structure of the gallery page was similar to the "Love Runing" page. I followed the same step to 
+     create my gallery page and added other features.
+   - The sign-up page was created from reading up and looking at other project on github and youtube.
+
+
+ - ### Media.
+   - All images were sourced from [Freepik](https://www.freepik.com), [logo] (https://logo.com/)and [Unsplash](https://unsplash.com). 
+
+
+
+
+
+
+- ## Acknowledgements.
    - My mentor, Oluwaseun Owonikoko, for the helpful feedback on every detail of the website.
    - Iris Smok, My facilitator for her help and support.
    - Oscar Bartrand, For his help and support.
-   Pri Dom, For his help and support.
+   - Pri Dom, For his help and support.
    - My husband Joseph, for his daily continuous support and for testing the website across our mobile devices.
    - Slack community, as the first help to ask when I encountered a problem.
 
