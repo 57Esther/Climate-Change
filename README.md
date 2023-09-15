@@ -171,19 +171,47 @@ The wireframes can be found in the link below:
 
   - ### Existing Features
 
-   -Navigation Bar (Navbar)
+   -Navigation Bar (Navbar).
 
     -The Navbar consists of a Logo on the left side that links to the top of the site, and three navigation links (nav-bar) on the right side that link to the sections. It occupies 100% width of the site.  
     - The Navbar is fully responsive on all device sizes. On desktop view, the user can see all the nav-links. 
     - The Nav-links have an active state which changes according to which section the user is currently looking at.  
     -The Nav-links have a subtle hover state  when the user hovers over them.  
-    - The Navbar is fixed at the top of the user’s device screen, it follows along when the user scrolls down.  
+    - The Navbar is fixed at the top of the user’s device screen, it follows along when the user scrolls down. 
 
-  -Hero image
-     - The backround image, shows the adverse effects of the cause and danger of climate change.
-     - The  two coloured effects shows how quickly actions needs to be taken to keep our planets safe.
-     - The choice of hero image showing the liveness and health of the planet through the bubbly tree    full of life and then turn into an empty and withered tree portrays a message about the effects of climate change. which makes it a perfect choice for the hero-image.
 
+ -Home Page 
+     - The home page has all the information and detailed ideas about the project.
+
+    -Hero image.
+      - The backround image, shows the adverse effects of the cause and danger of climate change.
+      - The  two coloured effects shows how quickly actions needs to be taken to keep our planets safe.
+      - The choice of hero image showing the liveness and health of the planet through the bubbly tree    
+       full of life and then turn into an empty and withered tree portrays a message about the effects of climate change. which makes it a perfect choice for the hero-image.  
+
+
+   -About and Purpose.
+     -Easy to read and visible purpose of the site can be seen after the hero image.
+
+   -Causes and Effect.
+     -The effect of change can be seen after the purpose of the site.
+
+    -Combacting Climate Issues.
+     -Likely solution to the climate change isssues were highlighted in this section.
+
+
+
+  -Gallery and Images of Effects.
+    -This section contain Images of some effects of climate and how it afffects things around us.
+
+
+ -Sign-up and Map Iframe Information.
+    -This sections offers an option for sign-up to anyone who wants to know more about the project.
+    -The map iframe was created to show credibility.
+
+ -Footer and social links.
+     -Shows the the map location, social linka and icons, addition feature to sign up to newsletter to recieve latest updates.
+    
 
 - ## Technology Used
 
