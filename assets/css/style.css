@@ -22,7 +22,7 @@ h2 {
     font-size: 250%;
     color: #41a323;
     text-align: center;
-    background-color: #41a323;
+    background-color: #d6ffff;
     padding: 15px 0px;
     width: 100%;
     
@@ -35,7 +35,7 @@ h2 {
     width: fit-content;
     float: right;
     color: #33831b;
-    background-color: #ffffff;
+    background-color:#ffffff ;
     text-decoration: none;
 
 }
@@ -59,7 +59,8 @@ h2 {
 
 #menu a {
     text-decoration: none;
-    color: #41a323;
+    color: #33831b;
+    background-color: #ffffff;
     text-align: center;
     
 }
@@ -72,6 +73,7 @@ h2 {
 
 .active {
     border-bottom: 1px solid #33831b;
+    background-color: #ffffff;
     text-decoration: none;
 }
  
@@ -130,7 +132,7 @@ text-decoration: none;
 
 
 #comabct-effect h5 {
-    font-weight: 300px;
+    font-size: 100px;
 }
 
 
@@ -164,7 +166,8 @@ iframe{
 
 
 .footer div h3{
-
+     color: #7c9595;
+     background-color: #ffffff;
      margin-bottom: 30px;
      letter-spacing: 1px;
 }
@@ -187,7 +190,7 @@ form input{
 form button{
     background-color: #efefef;
     border:  2px solid #ffffff;
-    color-scheme: #efefef;
+    color: #ffffff;
     border-radius: 30px;
     padding: 10px 30px;
     font-size: 15px;
