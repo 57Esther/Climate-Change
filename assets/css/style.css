@@ -132,7 +132,7 @@ text-decoration: none;
 
 
 #comabct-effect h5 {
-     text-align: justify;
+     text-align: center;
      text-decoration: none;
 }
 
@@ -190,13 +190,15 @@ form input{
 
 form button{
     background-color: #efefef;
-    border:  2px solid #ffffff;
-    color: #ffffff;
-    border-radius: 30px;
+    border-radius: 2px solid #ffffff;
     padding: 10px 30px;
     font-size: 15px;
     cursor: pointer
+    
+    
 
+
+    
 }
 
 /* END OF INDEX.HTML*/
@@ -207,26 +209,22 @@ form button{
 /*GALLERY.HTML*/
 
 #gallery-tittle {
-    font-size: 80%;
+    font-size: 30%;
     text-align: center;
     color: #33831b;
 }
 
 
-#gallery-tittle >h2 {
-    font-family: Lato;
+#gallery-tittle >h3 {
     text-transform: uppercase;
     letter-spacing: 1px;
     text-align: center;
-    height: 50px;
-    width: 100%;
+    
 }
 
 #gallery-tittle  >p {
     text-align: center;
-    text-transform: uppercase;
-    height: 50px;
-    width: 100%;
+    
 
     
 }
@@ -235,13 +233,13 @@ form button{
 #photos {
     clear: both;
     line-height: 0;
-    column-count: 2;
+    column-count: 4;
     column-gap: 0px;
 
 }
 
  #photos img {
-    height: 6%;
+
     width: 100%;
 
 }
@@ -342,11 +340,11 @@ form button{
 
 
 
- /*media screen and (min-width: 400px)*/
+ /*media screen and (max-width: 1200px)*/
 
 
 
- @media screen and (min-width: 400px) {
+ @media screen and (max-width: 1200px) {
     body {
       background-color: #fff;
     }
@@ -354,7 +352,7 @@ form button{
   
 
 
-  @media screen and (min-width: 800px) {
+  @media screen and (max-width: 800px) {
     body {
       background-color: #fff;
     }
@@ -362,7 +360,7 @@ form button{
 
  /* media screen (max-width: 600px) */
 
- @media screen and (max-width: 600px) {
+ @media screen and (max-width: 400px) {
 
     .div {
         display: none;
