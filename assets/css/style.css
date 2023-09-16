@@ -17,21 +17,21 @@ h2 {
 
 .logo {
     font-family:'Lato', sans-serif;
+    text-align: center;
+    padding: 15px 0px;
     text-transform: uppercase;
     text-decoration: none;
-    font-size: 250%;
+    font-size: 300%;
     color: #41a323;
-    text-align: center;
-    background-color: #d6ffff;
-    padding: 15px 0px;
-    width: 100%;
+    margin-left: 30px;
+    
     
     
 } 
 
 
 .navbar {
-    font-size: 100%;
+    font-size: 120%;
     width: fit-content;
     float: right;
     color: #33831b;
@@ -53,7 +53,7 @@ h2 {
 
  #menu li {
     float: right;
-    margin-right: 30px;
+    margin-right: 20px;
     height: fit-content;
 }
 
@@ -69,6 +69,7 @@ h2 {
     border-bottom: 1px solid #33831b;
     text-decoration: none;
     margin: 1.5rem;
+    
 }
 
 .active {
@@ -107,8 +108,7 @@ h2 {
 
   }
   
-  
-  
+    
 
 #causes-effect >h2{
    font-size: 100px;
@@ -118,23 +118,25 @@ h2 {
 }
 
 
-#combact-effect  >p{
-text-align: justify;
-text-decoration: none;
-
-}
-
-
-.col > div > p > a{
-    background-color: #ffffff;
-    color: #0d6efd ;
-}
-
-
 #comabct-effect h5 {
      text-align: center;
      text-decoration: none;
 }
+#combact-effect  >p{
+    text-align: justify;
+    text-decoration: none;
+    
+}
+
+
+
+.col > div > p > a{
+    background-color: #ffffff;
+    color: #0d6efd;
+}
+ 
+
+
 
 
 
@@ -189,17 +191,18 @@ form input{
 
 
 form button{
+
     background-color: #efefef;
     border-radius: 2px solid #ffffff;
     padding: 10px 30px;
     font-size: 15px;
     cursor: pointer
-    
-    
-
-
-    
 }
+
+
+
+
+
 
 /* END OF INDEX.HTML*/
 
@@ -209,25 +212,26 @@ form button{
 /*GALLERY.HTML*/
 
 #gallery-tittle {
-    font-size: 30%;
+
     text-align: center;
     color: #33831b;
 }
 
 
 #gallery-tittle >h3 {
-    text-transform: uppercase;
-    letter-spacing: 1px;
+  
     text-align: center;
-    
+       
 }
 
 #gallery-tittle  >p {
     text-align: center;
-    
+
+}
+
 
     
-}
+
 
 
 #photos {
@@ -259,17 +263,13 @@ form button{
 
 #signup-reason >h3 {
 
-    text-transform: uppercase;
-    color: #4c833b;
-    height: auto;
-    width: fit-content;
+    
     text-align: center;
 }
 
 
 #signup-reason >p {
-    height: auto;
-    width: fit-content;
+
     text-align: center;
 }
 
@@ -278,7 +278,7 @@ form button{
 .form-section {
      margin-top: 2rem;
     clear: left;
-    background: url("http://formdump.codeinstitute.net/");
+    background: url("https://formdump.codeinstitute.net/");
     background-size: contain;
     background-position: center;
 
@@ -340,44 +340,47 @@ form button{
 
 
 
- /*media screen and (max-width: 1200px)*/
+ /*media screen and (max-width: 1393px)*/
 
 
 
- @media screen and (max-width: 1200px) {
+ @media screen and (max-width: 1393px) {
     body {
       background-color: #fff;
     }
+
+#about-us{
+    width: 55%;
+    height: 1200px;
+    margin: 0 auto;
+}
+
+#causes-effect{
+    margin-top: 0;
+    padding: 30px 0;
+}
+
+#combact-effect{
+    width: 100%;
+    float: left;
+    padding: 0;
+
+}
+hr{
+    display: none;
+}
+
   }
   
+  /*media screen and (max-width: 943px)*/
+
+ 
 
 
-  @media screen and (max-width: 800px) {
-    body {
-      background-color: #fff;
-    }
-  }
-
- /* media screen (max-width: 600px) */
-
- @media screen and (max-width: 400px) {
-
-    .div {
-        display: none;
-      }
-
-    .navbar a {
-      float: none;
-      width: 100%;
-    }
+ /*media screen and (max-width: px)*/
 
 
-    form input{
-        width: 100%;
-        margin-right: 15px;
-    }
-
-  }
+ 
 
     
 
