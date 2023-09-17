@@ -82,7 +82,8 @@ As the develpoer of the wesite I want:
 -   #### Frequent Visitor Goals
 
     - As a Frequent Visitor, I want to check to see if there are any newly added resources.
-    - As a Frequent Visitor, I want to sign up to newsletter or events to stay updated with information about improving our planet.
+    - As a Frequent Visitor, I want to sign up to newsletter or events to stay updated with information 
+     about improving our planet.
 
     - As a Frequent Visitor, I want to find the best way to locate the events hosted on the website.
 
@@ -126,8 +127,8 @@ As the develpoer of the wesite I want:
        modern, clean, and simple style, and following the recommendation in Google fonts of popular pairing font with 
        oswald.  
 
-   -    Secondary font: Oswald. 
-       Oswlad is used as the header font for the website. It was chosen first, since I wanted to choose a beautiful and impactful font for the heading inside the hero-image, since that is the first impression of the website from the user’s perspective. 
+   -    Secondary font: Oswald and Roboto. 
+       Both front are used as the header for the website. It was chosen first, since I wanted to choose a beautiful and impactful font for the heading to give a great first impression of the website from the user’s perspective. 
 
   -   Both Lato and Oswald were used as main and fallback font.
       Lato and Oswald are clean, modern  and vibrant font that adds to the overall aesthetic and readability of the content.
@@ -297,6 +298,40 @@ The wireframes can be found in the link below:
   - ### Conducted user testing with friends and family members.
       Users enjoyed the sites visuals however later found out that the visuals were taking too much space and were too large. This resulted into compressing the image files which led to the decrease in some image quality.
 
+   - ### Testing User Stories from User Experience (UX) Section  
+
+    - #### Visitor Goals.
+
+    - #### First Time Visitors Goals-
+
+      - As a First Time Visitor, I want to easily understand the purpose of the website.
+      - As a First Time Visitor, I want to be able to easily navigate throughout the website to find content.
+      - As a First Time Visitor, I want to locate their social media links to follow them on social media.
+
+
+
+
+
+
+
+      -  #### Frequent Visitor Goals
+
+    - As a Frequent Visitor, I want to check to see if there are any newly added resources.
+    - As a Frequent Visitor, I want to sign up to newsletter or events to stay updated with information 
+     about improving our planet.
+
+    - As a Frequent Visitor, I want to find the best way to locate the events hosted on the website.
+
+
+
+ -  #### Returing Visitors Goals
+
+    - As a returning Visitor, I want to find new information about the website.
+    - As a returning Visitor, I want to find the best way to sign up to newsletter on the website.
+    - As a returning Visitor, I want to find new updates and  links to information.
+
+
+
 
 
 
@@ -336,7 +371,7 @@ The project was deployed to GitHub Pages using the following steps:
 2.	Navigate to the main page of GitHub Repository that will be deployed.
 3.	At the top of the Repository, locate the "Settings" button on the menu and click it.
 4.	Inside the Settings, on the left side of the page, there’s a list of tab menu. Locate the “Pages” tab, and click it.
-5.	Under "Source", click the dropdown called "None", select "Master", and then click the “Save” button.
+5.	Under "Source", click the dropdown called "None", select "Main branch", and then click the “Save” button.
 6.	The page will automatically refresh.
 7.	There’s a notification message that provides the now published site link: “Your site is ready to be published at "https://57esther.github.io/Climate-Change/ "
   
@@ -351,6 +386,7 @@ By forking the GitHub repository you can make a copy of the original repository 
 
 Changes made to the forked repository can be merged with the original repository via a pull request.  
 
+
 - ## Credits.
 
  - ### Content.
@@ -363,10 +399,10 @@ Changes made to the forked repository can be merged with the original repository
 
 
  - ### Media.
-   - All images were sourced from [Freepik](https://www.freepik.com), [logo] (https://logo.com/)and [Unsplash](https://unsplash.com). 
-
-
-
+   - All images were sourced from the following site.
+    - [logo] (https://logo.com/) 
+    - [Freepik](https://www.freepik.com)
+    - [Unsplash](https://unsplash.com).  
 
 
 
@@ -375,7 +411,9 @@ Changes made to the forked repository can be merged with the original repository
    - Iris Smok, My facilitator for her help and support.
    - Oscar Bartrand, For his help and support.
    - Pri Dom, For his help and support.
-   - My husband Joseph, for his daily continuous support and for testing the website across our mobile devices.
+   - My husband Joseph, for his daily continuous support and for testing the website across our mobile 
+    devices.
+   - The Code Institute #peer-code-review channel for feedback.
    - Slack community, as the first help to ask when I encountered a problem.
 
 [Back to top](https://57esther.github.io/Climate-Change/)  
