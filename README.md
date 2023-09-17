@@ -257,9 +257,11 @@ The wireframes can be found in the link below:
     12. [Gitpod](https://www.gitpod.io/)
         Gitpod was use to finalise and complete the project.
     13. [Code anywhere](https://codeanywhere.com/)
-    14. [Google Chrome DevTools](https://developer.chrome.com/docs/ 
+    14. [GoogleDevTools](https://developer.chrome.com/docs/ 
        devtools/) 
-    15. [Html corrector](https://www.htmlcorrector.com/)  
+    15. [Html corrector](https://www.htmlcorrector.com/) 
+    16.  [PageSpeed Insights](https://pagespeed.web.dev/)
+    17. [Lighthouse](https://www.google.com/chrome/)
 
    <br /> 
 
