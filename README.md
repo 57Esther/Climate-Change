@@ -212,16 +212,33 @@ The wireframes can be found in the link below:
 - #### Gallery and Images of Effects.
     - This section contain Images of some effects of climate and how it afffects things around us.
 
+- ### Images.
+   - The images explicit the effects of the climate and the damages it causing our plantes which show the user stories purpose of creating awareness of the problem.
 
- - #### Sign-up and Map Iframe Information.
+- ### Footer page
+  - Each footer page has the iframes showing the map address of meet up location.
+  - Socail links, icons for social meida  look up and follow.
+
+ - #### Sign-up.
     - This sections offers an option for sign-up to anyone who wants to know more about the project.
-    - The map iframe was created to show credibility.
+    
+- ### Map Iframe Information.
+
+  - The map iframe was created to give credibility to the website, according to finding users are more to engage with a website that has a addresss, hence the reason for incorporating a map address.
 
   - #### Footer and social links.
-     - Shows the the map location, social linka and icons, addition feature to sign up to newsletter to recieve latest updates.
+    - social link and icons using accessible links to social media pages like facebook etc helps user trust the page and want to engage and find out more on socila media.
+
+     - Shows the the map location.
+     - Addition feature to sign up to newsletter to recieve latest updates was also added to offer preference for returning user.
     
 - ## Media
-
+ - The following social meida links where visible on the site.
+  - Facebook link.
+  - Instaram link
+  - Twitter link
+  - Youtube link
+  - Google link
 
 
 - ## Technology Used
@@ -295,10 +312,22 @@ The wireframes can be found in the link below:
   - ### Mobile Phone.
     - The website was responsive on various mobile phones, the home page was well responsive and all features came out great and easy to access, the gallery page took few minutes to load images and the sign-up page  didnt allign and fit to content. had a bit of issues with the images and sign up page, i inspected using dev tools and fix the issues by reducing the size of images and removing some css styling on the sign-up page.
 
+  - ### Google Chrome
+
+
+  
+  - ### Opera Mini
+
+
+
+
+  - ### Firefox
+
+
 
 
   - ### Conducted user testing with friends and family members.
-      Users enjoyed the sites visuals however later found out that the visuals were taking too much space and were too large. This resulted into compressing the image files which led to the decrease in some image quality.
+      - Users enjoyed the sites visuals however later found out that the visuals were taking too much space and were too large. This resulted into compressing the image files which led to the decrease in some image quality.
 
    - ### Testing User Stories from User Experience (UX) Section  
 
@@ -344,6 +373,10 @@ The wireframes can be found in the link below:
    ![issues and bugs](assets/readme-img/issues-bugs-1.png)
    ![issues and bugs](assets/readme-img/issues-2.png)
    ![issues and bugs](assets/readme-img/issues-3.png)
+
+
+- ### Sign-up Reason
+ - I had isssues setting the sign-up reason h2 to fit to the middle of the mobile
 
 
 
@@ -398,6 +431,7 @@ Changes made to the forked repository can be merged with the original repository
    - The structure of the gallery page was similar to the "Love Runing" page. I followed the same step to 
      create my gallery page and added other features.
    - The sign-up page was created from reading up and looking at other project on github and youtube.
+   - Some paragraph was quoted from united nation website.
 
 
  - ### Media.
