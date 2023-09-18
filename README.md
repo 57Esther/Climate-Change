@@ -330,6 +330,7 @@ The wireframes can be found in the link below:
 
    - ### Destop and Laptop.
     - The website was responsive on various destop and laptop, the home page was well responsive and all features came great and easy to access, the gallery page took few minutes to load images and the sign-up page all allign and fit to content.
+
      ![destop-testing](assets/readme-img/Climate-Change-Home.png)
      ![destop-testing](assets/readme-img/Climate-Change-Home (1).png)
      ![destop-testing](assets/readme-img/Climate-Change-Home (2).png)
@@ -339,12 +340,13 @@ The wireframes can be found in the link below:
      ![destop-testing](assets/readme-img/Climate-Change-signup(1).png>)
      
    - ### Tablets and Ipads.
+  
      - The website was responsive on various tablets and mac, the home page was well responsive and all features came great and easy to access, the gallery page took few minutes to load images and the sign-up page all allign and fit to content. had a bit of issues with the images and sign up page, i inspected using dev tools and fix the issues by reducing the size of images and removing some css styling.
 
-      ![tablets-testing]()
-      ![tablets-testing]()
-      ![tablets-testing]()
-      ![tablets-testing]()
+      ![tablets-testing](assets/readme-img/Climate-Change-tablets.png)
+      ![tablets-testing](assets/readme-img/Climate-Change-tablets1.png)
+      ![tablets-testing](assets/readme-img/Climate-Change-tablets2.png)
+      ![tablets-testing](assets/readme-img/Climate-Change-tablet3.png)
 
 
 
@@ -375,7 +377,8 @@ The wireframes can be found in the link below:
 
 
 
-  - ### Firefox
+  - ### Microsoft Edge
+
 
 
 
@@ -392,7 +395,12 @@ The wireframes can be found in the link below:
       - As a First Time Visitor, I want to easily understand the purpose of the website.
       - As a First Time Visitor, I want to be able to easily navigate throughout the website to find content.
       - As a First Time Visitor, I want to locate their social media links to follow them on social media.
-
+       
+      ![testing](assets/readme-img/Screenshot_20230918-105413.png)
+      ![testing](assets/readme-img/Screenshot_20230918-084512.png)
+      ![testing](assets/readme-img/Screenshot_20230918-084623.png)
+      ![testing](assets/readme-img/Screenshot_20230918-084655.png)
+      
 
    -  #### Returing Visitors Goals
 
@@ -400,26 +408,23 @@ The wireframes can be found in the link below:
     - As a returning Visitor, I want to find the best way to sign up to newsletter on the website.
     - As a returning Visitor, I want to find new updates and links to information.
 
-
+      ![testing](assets/readme-img/Screenshot_20230918-084540.png)
+      ![testing](readme-img/Screenshot_20230918-084602.png)
+      
     -  #### Frequent Visitor Goals
 
       - As a Frequent Visitor, I want to check to see if there are any newly added resources.
-      - As a Frequent Visitor, I want to sign up to newsletter or events to stay updated with   information 
-      about improving our planet.
-
-     - As a Frequent Visitor, I want to find the best way to locate the events hosted on the website.
+      - As a Frequent Visitor, I want to sign up to newsletter or events to stay updated with   information about improving our planet.
       
-      ![testing](assets/readme-img/Screenshot_20230918-105413.png)
-      ![testing](assets/readme-img/Screenshot_20230918-084512.png)
-      ![testing](assets/readme-img/Screenshot_20230918-084540.png)
-      ![testing](readme-img/Screenshot_20230918-084602.png)
-      ![testing](assets/readme-img/Screenshot_20230918-084623.png)
-      ![testing](assets/readme-img/Screenshot_20230918-084655.png)
+      - As a Frequent Visitor, I want to find the best way to locate the events hosted on the website.
+    
+
       ![testing](assets/readme-img/Screenshot_20230918-084724 (1).png)
       ![testing](assets/readme-img/Screenshot_20230918-084752.png)
       ![testing](assets/readme-img/Screenshot_20230918-084832.png)
 
 
+      
 
 - ## Issues And Bugs.
 
