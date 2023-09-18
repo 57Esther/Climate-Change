@@ -311,14 +311,9 @@ The wireframes can be found in the link below:
      - Initially the site was recieving a lot of errors due to an outdated Font awesome link.
      - I struggled with trying to import Font awesome,however managed to stick it through 
      and get the issue resolved.
-     ![testing]()
-     ![testing]()
-
-     ![testing]()
-     ![testing]()
-
-     ![testing]()
-     ![testing]()
+     ![testing](assets/readme-img/light-house-test.png)
+     ![testing](assets/readme-img/light-house-test-1.png)
+     ![testing](assets/readme-img/light-house-test-2.png)
 
   - ### Testing for Responsiveness.
    - I tested for responsiveness using am i responsive site with images attached
@@ -444,7 +439,7 @@ The wireframes can be found in the link below:
 - ## Issues And Bugs.
 
    - While working on the project, i started with codeanywhere and open my workspace accordingly.
-   - I started experiencing difficuities with commiting my change to github, then diverge main and branch issues also came up which took considerably amount of time which should have gone into getting the project ready for submission. Images attached below: 
+   - I started experiencing difficuities with commiting my change to github, then diverge main and branch issues also came up which took considerably amount of time which should have gone into getting the project ready for submission. Images attached below:  
    ![issues and bugs](assets/readme-img/issues-bugs-1.png)
    ![issues and bugs](assets/readme-img/issues-2.png)
    ![issues and bugs](assets/readme-img/issues-3.png)
