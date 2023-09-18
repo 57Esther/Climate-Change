@@ -322,7 +322,7 @@ The wireframes can be found in the link below:
 
   - ### Testing for Responsiveness.
    - I tested for responsiveness using am i responsive site with images attached
-     here:![testing](assets/readme-img/Am-I-Responsive-testing.png)
+     here:![testing](assets/readme-img/am-i-responsive-mock-up.png)
 
 
 
@@ -353,6 +353,16 @@ The wireframes can be found in the link below:
     ![mobile-testing](assets/readme-img/mobile-testing-2.png)
     ![mobile-testing](assets/readme-img/mobile-testing-issues.png)
 
+- ### Accessibility Testing.
+   - The first testing had some errors and isssues as seen below.
+    ![testing](assets/readme-img/Automated-checks-Accessibility-Insights-for-Web.png)
+
+    - I run the test again after fixing some of the issues.
+   ![testing](assets/readme-img/Automated-checks-Accessibility-Insights-for-Web (1).png)
+   ![testing](assets/readme-img/Automated-checks-Accessibility-Insights-for-Web (2).png)
+   ![testing](assets/readme-img/Automated-checks-Accessibility-Insights-for-Web (3).png)
+   
+
   - ### Google Chrome
 
 
@@ -368,7 +378,7 @@ The wireframes can be found in the link below:
 
 
   - ### Conducted user testing with friends and family members.
-      - Users enjoyed the sites visuals however later found out that the visuals were taking too much space and were too large. This resulted into compressing the image files which led to the decrease in some image quality.
+      - Users enjoyed the sites visuals however later found out that the visuals were taking too much space and were too large. This resulted into compressing the image files which led to the decrease in some image quality. The issues were fix and tested again.
 
    - ### Testing User Stories from User Experience (UX) Section  
 
@@ -381,29 +391,30 @@ The wireframes can be found in the link below:
       - As a First Time Visitor, I want to locate their social media links to follow them on social media.
 
 
-
-
-
-
-
-      -  #### Frequent Visitor Goals
-
-    - As a Frequent Visitor, I want to check to see if there are any newly added resources.
-    - As a Frequent Visitor, I want to sign up to newsletter or events to stay updated with information 
-     about improving our planet.
-
-    - As a Frequent Visitor, I want to find the best way to locate the events hosted on the website.
-
-
-
- -  #### Returing Visitors Goals
+   -  #### Returing Visitors Goals
 
     - As a returning Visitor, I want to find new information about the website.
     - As a returning Visitor, I want to find the best way to sign up to newsletter on the website.
-    - As a returning Visitor, I want to find new updates and  links to information.
+    - As a returning Visitor, I want to find new updates and links to information.
 
 
+    -  #### Frequent Visitor Goals
 
+      - As a Frequent Visitor, I want to check to see if there are any newly added resources.
+      - As a Frequent Visitor, I want to sign up to newsletter or events to stay updated with   information 
+      about improving our planet.
+
+     - As a Frequent Visitor, I want to find the best way to locate the events hosted on the website.
+      
+      ![testing](assets/readme-img/Screenshot_20230918-105413.png)
+      ![testing](assets/readme-img/Screenshot_20230918-084512.png)
+      ![testing](assets/readme-img/Screenshot_20230918-084540.png)
+      ![testing](readme-img/Screenshot_20230918-084602.png)
+      ![testing](assets/readme-img/Screenshot_20230918-084623.png)
+      ![testing](assets/readme-img/Screenshot_20230918-084655.png)
+      ![testing](assets/readme-img/Screenshot_20230918-084724 (1).png)
+      ![testing](assets/readme-img/Screenshot_20230918-084752.png)
+      ![testing](assets/readme-img/Screenshot_20230918-084832.png)
 
 
 
