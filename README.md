@@ -330,14 +330,17 @@ The wireframes can be found in the link below:
 
    - ### Destop and Laptop.
     - The website was responsive on various destop and laptop, the home page was well responsive and all features came great and easy to access, the gallery page took few minutes to load images and the sign-up page all allign and fit to content.
-     ![destop-testing]()
-     ![destop-testing]()
-     ![destop-testing]()
-     ![destop-testing]()
-     ![destop-testing]()
-
+     ![destop-testing](assets/readme-img/Climate-Change-Home.png)
+     ![destop-testing](assets/readme-img/Climate-Change-Home (1).png)
+     ![destop-testing](assets/readme-img/Climate-Change-Home (2).png)
+     ![destop-testing](assets/readme-img/Climate-Change-gallery.png)
+     ![destop-testing](assets/readme-img/Climate-Change-gallery1.png)
+     ![destop-testing](assets/readme-img/Climate-Change-signup.png)
+     ![destop-testing](assets/readme-img/Climate-Change-signup(1).png>)
+     
    - ### Tablets and Ipads.
      - The website was responsive on various tablets and mac, the home page was well responsive and all features came great and easy to access, the gallery page took few minutes to load images and the sign-up page all allign and fit to content. had a bit of issues with the images and sign up page, i inspected using dev tools and fix the issues by reducing the size of images and removing some css styling.
+
       ![tablets-testing]()
       ![tablets-testing]()
       ![tablets-testing]()
