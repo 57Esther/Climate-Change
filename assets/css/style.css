@@ -32,7 +32,7 @@ h2 {
 
 
 .navbar {
-    font-size: 120%;
+    font-size: 100%;
     width: fit-content;
     float: right;
     color: #33831b;
@@ -45,7 +45,7 @@ h2 {
 #menu {
 
     list-style-type: none;
-    letter-spacing: 1px;
+    letter-spacing: 0px;
     float: right;
 
 }
@@ -59,10 +59,12 @@ h2 {
 }
 
 #menu a {
-    text-decoration: none;
+
     color: #33831b;
     background-color: #ffffff;
     text-align: center;
+    
+    
     
 }
 
@@ -172,7 +174,7 @@ iframe{
 .footer div h3{
      color: #7c9595;
      background-color: #ffffff;
-     margin-bottom: 30px;
+     margin-bottom: 1rem;
      letter-spacing: 1px;
 }
 
@@ -258,7 +260,7 @@ form button{
 /* SIGN UP.HTML*/
 
 #signup {
-    font-size: 150%;
+    font-size: 100%;
     letter-spacing: 1px;
     color: #717171;
     margin-bottom: 0px;
@@ -383,27 +385,58 @@ hr{
   @media screen and (max-width: 943px){
 .navbar{
     width: auto;
-    float: left;
+    margin-bottom: auto;
+    margin-bottom: auto;
+    
 }
 
 #menu{
     clear: both;
     line-height: 20px;
-    float: left;
-    margin-bottom: auto;
-    margin-bottom: auto;
+   
 
 }
+
 #signup-reason >h3{
-width: inherit;
+ width: inherit;
 }
 
-  }
+
 #signup-reason >p{
 
     text-align: center;
-    padding: 0 20px 0 20px;
+    margin: auto;
+
 }
+
+.footer div h3{
+    margin: 0.5rem;
+}
+
+iframe{
+    margin: auto;
+}
+
+
+#photos{
+    column-count: 3;
+
+}
+
+
+  }
+
+@media screen and (max-width: 800px){
+
+#photos{
+        column-count: 2;
+
+         }
+    
+
+}
+    
+
 
 
  
