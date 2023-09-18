@@ -418,13 +418,13 @@ The wireframes can be found in the link below:
       ![testing](assets/readme-img/Climate-Change-signup(1).png)
       
     -  #### Frequent Visitor Goals
-
-      - As a Frequent Visitor, I want to check to see if there are any newly added resources.
+     
+     - As a Frequent Visitor, I want to check to see if there are any newly added resources.
       - As a Frequent Visitor, I want to sign up to newsletter or events to stay updated with   information about improving our planet.
       
       - As a Frequent Visitor, I want to find the best way to locate the events hosted on the website.
-    
-
+      
+      
       ![testing](assets/readme-img/Screenshot_20230918-084724 (1).png)
       ![testing](assets/readme-img/Screenshot_20230918-084752.png)
       ![testing](assets/readme-img/Screenshot_20230918-084832.png)
@@ -432,9 +432,8 @@ The wireframes can be found in the link below:
       ![testing](assets/readme-img/Climate-Change-signup.png)
       ![testing](assets/readme-img/Climate-Change-Home 4.png)
 
-
-
-      
+     
+    
 
 - ## Issues And Bugs.
 
