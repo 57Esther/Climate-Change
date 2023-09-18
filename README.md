@@ -8,7 +8,7 @@
   
 The site address is: [ Climate Change](https://57esther.github.io/Climate-Change/)
 
-![Website respinsiveness](assets/readme-img/responsive-mockup-image.png)
+![Website respinsiveness](assets/readme-img/am-i-responsive-mock-up.png)
 
 
 ## Table of contents
@@ -127,17 +127,17 @@ As the develpoer of the wesite I want:
        modern, clean, and simple style, and following the recommendation in Google fonts of popular pairing font with 
        oswald.  
 
-   -    Secondary font: Oswald and Roboto. 
+   -   Oswald and Roboto. 
        Both front are used as the header for the website. It was chosen first, since I wanted to choose a beautiful and impactful font for the heading to give a great first impression of the website from the user’s perspective. 
 
-  -   Both Lato and Oswald were used as main and fallback font.
+  -   Lato, Oswald and Roboto were used as main and fallback font.
       Lato and Oswald are clean, modern  and vibrant font that adds to the overall aesthetic and readability of the content.
    
 - ### Imagery
 
-   These images were sourced from [Freepik](https://www.freepik.com), and [Unsplash](https://unsplash.com).  
-   * Hero Image is chosen because it’s blends with the tittle, so the heading text can stand out more, and it’s giving a clean and fresh feeling of living “climate change”.
-   * All of the images in the website were taken from a free stock-photos website, as representations of what’s inside the shop, to provide clear imagery to the user and let the user know what to expect.
+   - These images were sourced from [Freepik](https://www.freepik.com), and [Unsplash](https://unsplash.com).  
+   - Hero Image is chosen because it’s blends with the tittle, so the heading text can stand out more, and it’s giving a clean and fresh feeling of living “climate change”.
+   - All of the images in the website were taken from a free stock-photos website, as representations of what’s inside the shop, to provide clear imagery to the user and let the user know what to expect.
 
 <br />
 
@@ -240,6 +240,9 @@ The wireframes can be found in the link below:
   - Youtube link
   - Google link
 
+<br/>
+
+
 
 - ## Technology Used
 
@@ -280,20 +283,42 @@ The wireframes can be found in the link below:
     16.  [PageSpeed Insights](https://pagespeed.web.dev/)
     17. [Lighthouse](https://www.google.com/chrome/)
 
-   <br /> 
+   <br/> 
 
 - ## Testing and Validation.
 
+ - ### Validation.
+   - The website was tested using html and css code validators.
+     which show some issues from bootsrap link.
+    ![testing](assets/readme-img/Change-CSS-level-3-SVG-.png)
+    ![testing](assets/readme-img/Climate-Change-Nu-Html-Checker.png)
+   
+
   - ### Validated the HTML and CSS code using W3C validators.
 
-   - The website was tested using html validator and css validator: 
-    ![testing](assets/readme-img/First-project-testing.png)
-    ![testing](assets/readme-img/First-project-testing-2.png)
+   - The website was tested using lighthouse and pagespeed-insight: 
+    ![testing](assets/readme-img/PageSpeed-Insights-test.png)
+    ![testing](assets/readme-img/PageSpeed-Insights-destop.png)
+    ![testing](assets/readme-img/Lighthouse-Report-home.png)
+    ![testing](assets/readme-img/Lighthouse-Report-gallery.png)
+    ![testing](assets/readme-img/testing-report.png)
+    ![testing](assets/readme-img/Lighthouse-Report-sign-up.png)
+    ![testing](assets/readme-img/Lighthouse-Report-Viewer.png)
+
+
 
    - ### Retesting and validation.
      - Initially the site was recieving a lot of errors due to an outdated Font awesome link.
      - I struggled with trying to import Font awesome,however managed to stick it through 
      and get the issue resolved.
+     ![testing]()
+     ![testing]()
+
+     ![testing]()
+     ![testing]()
+
+     ![testing]()
+     ![testing]()
 
   - ### Testing for Responsiveness.
    - I tested for responsiveness using am i responsive site with images attached
@@ -305,12 +330,28 @@ The wireframes can be found in the link below:
 
    - ### Destop and Laptop.
     - The website was responsive on various destop and laptop, the home page was well responsive and all features came great and easy to access, the gallery page took few minutes to load images and the sign-up page all allign and fit to content.
+     ![destop-testing]()
+     ![destop-testing]()
+     ![destop-testing]()
+     ![destop-testing]()
+     ![destop-testing]()
 
-   - ### Tablets and Mac.
+   - ### Tablets and Ipads.
      - The website was responsive on various tablets and mac, the home page was well responsive and all features came great and easy to access, the gallery page took few minutes to load images and the sign-up page all allign and fit to content. had a bit of issues with the images and sign up page, i inspected using dev tools and fix the issues by reducing the size of images and removing some css styling.
+      ![tablets-testing]()
+      ![tablets-testing]()
+      ![tablets-testing]()
+      ![tablets-testing]()
+
+
 
   - ### Mobile Phone.
     - The website was responsive on various mobile phones, the home page was well responsive and all features came out great and easy to access, the gallery page took few minutes to load images and the sign-up page  didnt allign and fit to content. had a bit of issues with the images and sign up page, i inspected using dev tools and fix the issues by reducing the size of images and removing some css styling on the sign-up page.
+
+    ![mobile-testing](assets/readme-img/mobile-testing-1.png)
+    ![mobile-testing](assets/readme-img/mobile-testing.png)
+    ![mobile-testing](assets/readme-img/mobile-testing-2.png)
+    ![mobile-testing](assets/readme-img/mobile-testing-issues.png)
 
   - ### Google Chrome
 
