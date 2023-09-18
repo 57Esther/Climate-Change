@@ -369,16 +369,23 @@ The wireframes can be found in the link below:
    
 
   - ### Google Chrome
-
+    ![testing](assets/readme-img/Climate-Change-Home.png)
+    ![testing](assets/readme-img/Climate-Change-gallery.png)
+    ![testing](assets/readme-img/Climate-Change-signup.png)
 
   
   - ### Opera Mini
-
+   ![testing](assets/readme-img/Opera Snapshot_2023-09-18_091349_57esther.github.io.png)
+   ![testing](assets/readme-img/Climate-Change-signup.png)
+   ![testing](assets/readme-img/Opera Snapshot_2023-09-18_091537_57esther.github.io-2.png)
 
 
 
   - ### Microsoft Edge
 
+   ![testing](assets/readme-img/microsoft-edge-1.png)
+   ![testing](assets/readme-img/microsoft-edge-1.png)
+   ![testing](assets/readme-img/microsoft-edge-1.png)
 
 
 
