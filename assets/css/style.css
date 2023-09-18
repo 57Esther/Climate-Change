@@ -24,7 +24,7 @@ h2 {
     text-decoration: none;
     font-size: 300%;
     color: #41a323;
-    margin-left: 30px;
+    margin-left: 25px;
     
     
     
@@ -101,7 +101,7 @@ h2 {
 
 #about-us >h2 {
     font-size: 100px;
-    color: #33831b;
+    
 }
 
 #about-us > p{
@@ -113,8 +113,7 @@ h2 {
 
 #causes-effect >h2{
    font-size: 100px;
-   color: #33831b;
-
+   
 
 }
 
@@ -353,6 +352,7 @@ form button{
  @media screen and (max-width: 1393px) {
     body {
       background-color: #fff;
+      color: #33831b;
     }
 
 #about-us{
@@ -379,6 +379,32 @@ hr{
   }
   
   /*media screen and (max-width: 943px)*/
+
+  @media screen and (max-width: 943px){
+.navbar{
+    width: auto;
+    float: left;
+}
+
+#menu{
+    clear: both;
+    line-height: 20px;
+    float: left;
+    margin-bottom: auto;
+    margin-bottom: auto;
+
+}
+#signup-reason >h3{
+width: inherit;
+}
+
+  }
+#signup-reason >p{
+
+    text-align: center;
+    padding: 0 20px 0 20px;
+}
+
 
  
 
